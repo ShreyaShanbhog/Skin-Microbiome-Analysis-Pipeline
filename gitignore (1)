@@ -1,0 +1,27 @@
+# Raw sequencing data — too large for version control
+raw_fastq/
+*.fastq
+*.fastq.gz
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+
+# Temporary QIIME2 outputs
+*.qza.tmp
+*.qzv.tmp
+
+# Large intermediate files
+*.bam
+*.sam

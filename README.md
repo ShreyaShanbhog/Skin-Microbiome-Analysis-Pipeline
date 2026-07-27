@@ -54,15 +54,15 @@ skin-microbiome/
 | Quality Control (FastQC / MultiQC) | Complete |
 | QIIME2 Import | Complete |
 | DADA2 Denoising | Complete |
-| Taxonomic Classification (SILVA) | Next |
-| Alpha / Beta Diversity | Planned |
-| Differential Abundance | Planned |
-| Functional Prediction (PICRUSt2) | Planned |
-| ML Classification | Planned |
+| Taxonomic Classification (SILVA) | Complete |
+| Alpha / Beta Diversity | Complete |
+| Differential Abundance | Complete |
+| Functional Prediction (PICRUSt2) | Complete |
+| ML Classification | Next |
 
 ---
 
-## Week 1–2: Data Processing
+## Phase 1
 
 ### Quality Control
 
@@ -129,7 +129,7 @@ qiime feature-table summarize \
 
 ---
 
-## Results
+## Key Results
 
 ### DADA2 Read Retention (Example Sample)
 
@@ -165,26 +165,37 @@ qiime feature-table summarize \
 | Maximum Reads/Sample | 86,117 |
 
 ---
+## Phase 2 – Functional Prediction Using PICRUSt2
 
-## Preliminary Interpretation
+### Objective
+Predict the functional potential of the skin microbiome using 16S rRNA sequencing data.
 
-- Sequencing depth is adequate for downstream diversity analyses across all 642 samples.
-- DADA2 retained 94.1% of reads after quality filtering and chimera removal.
-- 18,834 unique ASVs indicate substantial microbial diversity across sampled skin sites.
-- Skin-site metadata enables future comparisons of microbial community composition across body locations (scalp, axilla, arm, etc.).
+### Methods
+- Filtered ASVs by prevalence (≥5 samples)
+- Retained 1,793 ASVs (96.97% of sequencing reads)
+- Predicted KEGG pathways using PICRUSt2
+- Performed differential pathway abundance analysis using ANCOM-BC2
+- Visualized significant pathways using boxplots
 
----
+### Key Results
+- 430 significant pathways (Axilla vs Arm)
+- 427 significant pathways (Scalp vs Arm)
+- 273 significant pathways (Scalp vs Axilla)
 
-## Next Steps
+Major pathway categories:
+- Lipid metabolism
+- Fatty acid metabolism
+- Amino acid metabolism
+- Vitamin biosynthesis
+- Sulfur metabolism
 
-1. **Taxonomic classification** — assign taxonomy using the SILVA 16S rRNA database
-2. **Taxonomy barplots** — visualize community composition per sample/site
-3. **Alpha diversity** — Shannon index, observed features, Faith's PD
-4. **Beta diversity** — Bray-Curtis, UniFrac (requires phylogenetic tree)
-5. **PERMANOVA testing** — test significance of skin-site and metadata groupings
-6. **Differential abundance analysis** — identify taxa enriched at specific skin sites
-7. **Functional prediction** — PICRUSt2 for pathway-level insights
-8. **Machine learning classification** — classify samples by skin site or metadata
+### Biological Findings
+- Scalp microbiome enriched for lipid metabolism pathways.
+- Arm microbiome displayed broader biosynthetic potential.
+- Axillary microbiome exhibited greater functional specialization.
+
+### Cosmetic Relevance
+The predicted microbial functions support tissue-specific microbiome skincare strategies using prebiotics, postbiotics, and barrier-supportive ingredients.
 
 ---
 

@@ -1,0 +1,114 @@
+"Comparison","pathway_name","Category","Skin_Relevance","Higher_in","q_isolateAxilla","lfc_isolateAxilla"
+"Axilla vs Arm","ADP-L-glycero-&beta;-D-manno-heptose biosynthesis","Other","Other","Reference group",1.25000401522019e-34,-1.82818997900842
+"Axilla vs Arm","superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation","Central metabolism","General metabolism","Comparison group",4.10300382146962e-30,1.51733342155588
+"Axilla vs Arm","Kdo transfer to lipid IVA III (Chlamydia)","Lipid metabolism","Skin barrier lipids","Reference group",3.44333240218595e-28,-1.7329754820811
+"Axilla vs Arm","lipid IVA biosynthesis","Lipid metabolism","Skin barrier lipids","Reference group",9.57854455314213e-28,-1.69450103944599
+"Axilla vs Arm","superpathway of heme biosynthesis from uroporphyrinogen-III","Cofactor metabolism","Oxidative metabolism","Reference group",6.02404752621206e-27,-1.45244340507195
+"Axilla vs Arm","phenylacetate degradation I (aerobic)","Other","Other","Reference group",6.41266714244287e-27,-1.5012836394345
+"Axilla vs Arm","L-tyrosine degradation I","Amino acid metabolism","Pigmentation precursor","Reference group",1.57091482572821e-26,-1.50453384581092
+"Axilla vs Arm","oleate &beta;-oxidation","Lipid metabolism","Sebum metabolism","Reference group",7.12770028532408e-26,-1.44697879629357
+"Axilla vs Arm","superpathway of arginine and polyamine biosynthesis","Amino acid metabolism","Hydration & pH","Reference group",2.72984394013906e-24,-1.34976258307193
+"Axilla vs Arm","stearate biosynthesis II (bacteria and plants)","Lipid metabolism","Skin lipid synthesis","Reference group",1.47116940756025e-23,-1.49533321851517
+"Axilla vs Arm","superpathway of N-acetylneuraminate degradation","Central metabolism","General metabolism","Reference group",5.4422328304478e-23,-1.35260016745354
+"Axilla vs Arm","L-arginine biosynthesis III (via N-acetyl-L-citrulline)","Amino acid metabolism","Hydration & pH","Reference group",9.88983653104584e-23,-1.46002386985435
+"Axilla vs Arm","superpathway of (Kdo)2-lipid A biosynthesis","Lipid metabolism","Skin barrier lipids","Reference group",5.17440193195839e-22,-1.30844405064551
+"Axilla vs Arm","L-histidine degradation II","Amino acid metabolism","Natural moisturizing factor","Reference group",7.39223366941339e-21,-1.3063955533317
+"Axilla vs Arm","fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)","Lipid metabolism","Skin barrier lipids","Reference group",7.51699766386425e-21,-1.34065464607721
+"Axilla vs Arm","L-histidine degradation I","Amino acid metabolism","Natural moisturizing factor","Comparison group",1.01628798547805e-20,1.04356618949056
+"Axilla vs Arm","superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)","Sulfur metabolism","Sulfur amino acids","Reference group",1.19544455435396e-20,-1.19661433921049
+"Axilla vs Arm","formaldehyde assimilation I (serine pathway)","Amino acid metabolism","Barrier function","Reference group",3.75026453114236e-20,-1.18911063305187
+"Axilla vs Arm","superpathway of heme biosynthesis from glycine","Amino acid metabolism","Collagen metabolism","Reference group",7.0821608485087e-19,-1.24137776678654
+"Axilla vs Arm","polyisoprenoid biosynthesis (E. coli)","Other","Other","Comparison group",8.63930967406442e-19,0.929937899836066
+"Axilla vs Arm","UDP-N-acetyl-D-glucosamine biosynthesis I","Central metabolism","General metabolism","Comparison group",1.1058254881397e-18,0.917618277377252
+"Axilla vs Arm","phosphopantothenate biosynthesis I","Other","Other","Comparison group",3.92272536696051e-18,0.912520463645093
+"Axilla vs Arm","coenzyme A biosynthesis II (mammalian)","Other","Other","Comparison group",4.03275504076196e-18,0.902757761773714
+"Axilla vs Arm","UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)","Central metabolism","General metabolism","Comparison group",5.32617955361116e-18,0.897679972237047
+"Axilla vs Arm","peptidoglycan biosynthesis I (meso-diaminopimelate containing)","Cell envelope","Cell wall synthesis","Comparison group",7.46843853876738e-18,0.893372089942247
+"Axilla vs Arm","peptidoglycan biosynthesis III (mycobacteria)","Cell envelope","Cell wall synthesis","Comparison group",1.02308069680199e-17,0.886611743677664
+"Axilla vs Arm","UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)","Central metabolism","General metabolism","Comparison group",1.28608632741063e-17,0.885277307306248
+"Axilla vs Arm","coenzyme A biosynthesis I","Other","Other","Comparison group",1.33502829372726e-17,0.888139837583033
+"Axilla vs Arm","heme biosynthesis I (aerobic)","Cofactor metabolism","Oxidative metabolism","Comparison group",1.48195015292361e-17,0.93799971038285
+"Axilla vs Arm","CDP-diacylglycerol biosynthesis I","Other","Other","Comparison group",1.86465806514306e-16,0.843637476748269
+"Axilla vs Arm","CDP-diacylglycerol biosynthesis II","Other","Other","Comparison group",1.8646580651431e-16,0.843637476748269
+"Axilla vs Arm","GDP-D-glycero-&alpha;-D-manno-heptose biosynthesis","Other","Other","Reference group",2.9160563877992e-16,-1.1509106393255
+"Axilla vs Arm","superpathway of L-serine and glycine biosynthesis I","Amino acid metabolism","Collagen metabolism","Comparison group",3.47352389851894e-16,0.821936783997193
+"Axilla vs Arm","peptidoglycan biosynthesis II (staphylococci)","Cell envelope","Cell wall synthesis","Comparison group",4.76898931538952e-16,1.08412234991013
+"Axilla vs Arm","phosphatidylglycerol biosynthesis I (plastidic)","Other","Other","Comparison group",6.36239066512618e-16,0.82980163343964
+"Axilla vs Arm","phosphatidylglycerol biosynthesis II (non-plastidic)","Other","Other","Comparison group",6.36239066512618e-16,0.82980163343964
+"Axilla vs Arm","superpathway of phospholipid biosynthesis I (bacteria)","Lipid metabolism","Skin barrier lipids","Comparison group",6.95474278891197e-16,0.824861248170472
+"Axilla vs Arm","L-arginine biosynthesis I (via L-ornithine)","Amino acid metabolism","Hydration & pH","Comparison group",8.76584161398634e-16,0.820339934646921
+"Axilla vs Arm","unsaturated, even numbered fatty acid &beta;-oxidation","Lipid metabolism","Skin barrier lipids","Reference group",9.83377131362399e-16,-1.23169573910353
+"Axilla vs Arm","CMP-N-acetylneuraminate biosynthesis I (eukaryotes)","Central metabolism","General metabolism","Reference group",1.58770129335112e-15,-1.02810539468337
+"Axilla vs Arm","L-arginine biosynthesis II (acetyl cycle)","Amino acid metabolism","Hydration & pH","Comparison group",4.30231311417724e-15,0.795504563416854
+"Axilla vs Arm","folate transformations II","Vitamin/Cofactor metabolism","Cell metabolism","Comparison group",5.33708036086931e-15,0.787234926119362
+"Axilla vs Arm","superpathway of tetrahydrofolate biosynthesis and salvage","Vitamin/Cofactor metabolism","Cell metabolism","Comparison group",5.90371810805805e-15,0.788963848164434
+"Axilla vs Arm","pantothenate and coenzyme A biosynthesis I","Other","Other","Comparison group",1.00127742182166e-14,0.793719440638943
+"Axilla vs Arm","L-methionine biosynthesis I","Other","Other","Reference group",3.2042790696309e-14,-1.11407309139525
+"Axilla vs Arm","superpathway of tetrahydrofolate biosynthesis","Vitamin/Cofactor metabolism","Cell metabolism","Comparison group",4.51858045120086e-14,0.762087306858576
+"Axilla vs Arm","superpathway of S-adenosyl-L-methionine biosynthesis","Other","Other","Reference group",4.98972695862028e-14,-1.05033187191167
+"Axilla vs Arm","biotin biosynthesis II","Vitamin/Cofactor metabolism","Skin health","Comparison group",5.31449830676606e-14,1.07133673778566
+"Axilla vs Arm","dTDP-N-acetylthomosamine biosynthesis","Central metabolism","General metabolism","Reference group",6.12161035259247e-14,-1.09435975173859
+"Axilla vs Arm","tetrapyrrole biosynthesis II (from glycine)","Amino acid metabolism","Collagen metabolism","Comparison group",1.75939444290948e-13,0.761524948061313
+"Axilla vs Arm","L-methionine biosynthesis II","Other","Other","Comparison group",4.39195995101947e-13,0.74622006331723
+"Axilla vs Arm","superpathway of L-phenylalanine biosynthesis","Other","Other","Comparison group",5.06157931811655e-13,0.718507545870152
+"Axilla vs Arm","superpathway of L-tyrosine biosynthesis","Amino acid metabolism","Pigmentation precursor","Comparison group",5.85804176625767e-13,0.717477135117767
+"Axilla vs Arm","heme biosynthesis II (anaerobic)","Cofactor metabolism","Oxidative metabolism","Reference group",6.56039638451898e-13,-1.08532554768768
+"Axilla vs Arm","pyruvate fermentation to acetone","Other","Other","Reference group",8.93869351394473e-13,-0.926037528324097
+"Axilla vs Arm","L-arginine degradation II (AST pathway)","Amino acid metabolism","Hydration & pH","Reference group",9.807276084358e-13,-1.12431781385457
+"Axilla vs Arm","superpathway of L-methionine biosynthesis (transsulfuration)","Sulfur metabolism","Sulfur amino acids","Reference group",1.19123323713385e-12,-1.0002914959764
+"Axilla vs Arm","hexitol fermentation to lactate, formate, ethanol and acetate","Other","Other","Reference group",1.62253789445986e-12,-0.956738070784005
+"Axilla vs Arm","fatty acid salvage","Lipid metabolism","Skin barrier lipids","Reference group",3.08791805139776e-12,-0.866637110950714
+"Axilla vs Arm","superpathay of heme biosynthesis from glutamate","Cofactor metabolism","Oxidative metabolism","Comparison group",5.68559155188544e-12,0.70290674149797
+"Axilla vs Arm","S-adenosyl-L-methionine cycle I","Other","Other","Comparison group",4.29957487865279e-11,0.714444199887697
+"Axilla vs Arm","superpathway of L-isoleucine biosynthesis I","Other","Other","Comparison group",6.18265561733466e-11,0.644392677162019
+"Axilla vs Arm","ethylmalonyl-CoA pathway","Other","Other","Reference group",1.23331111385855e-10,-0.846984708030882
+"Axilla vs Arm","L-isoleucine biosynthesis III","Other","Other","Comparison group",1.74854102509555e-10,0.641386173179634
+"Axilla vs Arm","N10-formyl-tetrahydrofolate biosynthesis","Vitamin/Cofactor metabolism","Cell metabolism","Reference group",2.63964625493975e-10,-0.791668753648275
+"Axilla vs Arm","superpathway of L-lysine, L-threonine and L-methionine biosynthesis I","Other","Other","Reference group",3.45535415494196e-10,-0.814146720461853
+"Axilla vs Arm","L-isoleucine biosynthesis I (from threonine)","Other","Other","Comparison group",3.47045633154194e-10,0.624743279796908
+"Axilla vs Arm","vitamin E biosynthesis (tocotrienols)","Other","Other","Comparison group",9.48676216292801e-10,0.818153250591998
+"Axilla vs Arm","pyruvate fermentation to acetate and lactate II","Other","Other","Comparison group",1.34502646629678e-09,0.986684630741214
+"Axilla vs Arm","peptidoglycan maturation (meso-diaminopimelate containing)","Cell envelope","Cell wall synthesis","Comparison group",1.59908006483369e-09,0.632921754159505
+"Axilla vs Arm","L-lysine fermentation to acetate and butanoate","Other","Other","Reference group",2.03695270739598e-09,-0.845086550418961
+"Axilla vs Arm","superpathway of glyoxylate cycle and fatty acid degradation","Lipid metabolism","Skin barrier lipids","Reference group",2.17615985966343e-09,-0.790268282553219
+"Axilla vs Arm","vitamin E biosynthesis (tocopherols)","Other","Other","Comparison group",3.33820253441943e-09,0.787379023467755
+"Axilla vs Arm","L-valine biosynthesis","Other","Other","Comparison group",3.71292377581585e-09,0.585178605992986
+"Axilla vs Arm","fatty acid &beta;-oxidation I","Lipid metabolism","Skin barrier lipids","Reference group",5.37354704097113e-09,-0.700029432948135
+"Axilla vs Arm","pyruvate fermentation to isobutanol (engineered)","Other","Other","Comparison group",1.28939021932368e-08,0.575928639898336
+"Axilla vs Arm","dTDP-N-acetylviosamine biosynthesis","Central metabolism","General metabolism","Reference group",3.26624167459956e-08,-0.727712493577021
+"Axilla vs Arm","superpathway of L-methionine biosynthesis (by sulfhydrylation)","Other","Other","Reference group",5.61442340528159e-08,-0.628552300599107
+"Axilla vs Arm","L-arginine biosynthesis IV (archaebacteria)","Amino acid metabolism","Hydration & pH","Reference group",8.72733282172156e-08,-0.655601282328443
+"Axilla vs Arm","pyruvate fermentation to propanoate II (acrylate pathway)","Other","Other","Comparison group",1.20603576374674e-07,0.80999308649296
+"Axilla vs Arm","superpathway of glycerol degradation to 1,3-propanediol","Other","Other","Reference group",1.45155257778965e-07,-0.74378064570402
+"Axilla vs Arm","2-amino-3-carboxymuconate semialdehyde degradation to glutaryl-CoA","Other","Other","Reference group",1.64134801793921e-07,-0.696927592482137
+"Axilla vs Arm","fatty acid &beta;-oxidation VI (peroxisome)","Lipid metabolism","Skin barrier lipids","Reference group",2.37733954377818e-07,-0.755278892118202
+"Axilla vs Arm","L-tryptophan degradation IX","Other","Other","Reference group",2.76609594162433e-07,-0.653636508762078
+"Axilla vs Arm","superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation","Amino acid metabolism","Hydration & pH","Reference group",5.81923060976661e-07,-0.73056263404181
+"Axilla vs Arm","superpathway of L-arginine and L-ornithine degradation","Amino acid metabolism","Hydration & pH","Reference group",5.81923060976661e-07,-0.73056263404181
+"Axilla vs Arm","glycine betaine degradation I","Amino acid metabolism","Collagen metabolism","Reference group",6.00675725547719e-07,-0.697583082221343
+"Axilla vs Arm","L-tryptophan degradation X (mammalian, via tryptamine)","Other","Other","Reference group",6.49552195284045e-07,-0.676708867452092
+"Axilla vs Arm","NAD biosynthesis II (from tryptophan)","Other","Other","Reference group",3.6988199547858e-06,-0.613304075788147
+"Axilla vs Arm","L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde","Other","Other","Reference group",4.02790968585551e-06,-0.615065495840032
+"Axilla vs Arm","peptidoglycan biosynthesis IV (Enterococcus faecium)","Cell envelope","Cell wall synthesis","Reference group",5.61232582608385e-06,-0.682037819556667
+"Axilla vs Arm","4-hydroxyphenylacetate degradation","Other","Other","Reference group",1.93866005320721e-05,-0.572352002047911
+"Axilla vs Arm","TCA cycle VII (acetate-producers)","Other","Other","Comparison group",5.18233805400519e-05,0.465355184511713
+"Axilla vs Arm","superpathway of sulfide oxidation (phototrophic sulfur bacteria)","Sulfur metabolism","Sulfur amino acids","Reference group",8.96501028368436e-05,-0.522971903920841
+"Axilla vs Arm","L-isoleucine biosynthesis IV","Other","Other","Comparison group",9.64093569006989e-05,0.51656515985846
+"Axilla vs Arm","superpathway of sulfolactate degradation","Other","Other","Reference group",0.000158899119620406,-0.53562454260654
+"Axilla vs Arm","superpathway of L-tryptophan biosynthesis","Other","Other","Comparison group",0.000437150472221014,0.463915507447245
+"Axilla vs Arm","L-tryptophan biosynthesis","Other","Other","Comparison group",0.000439067170478593,0.467120081392081
+"Axilla vs Arm","L-tryptophan degradation XII (Geobacillus)","Other","Other","Reference group",0.000530723398637092,-0.449535316126568
+"Axilla vs Arm","superpathway of L-phenylalanine and L-tyrosine biosynthesis","Amino acid metabolism","Pigmentation precursor","Comparison group",0.000579691943968708,0.45606998327638
+"Axilla vs Arm","mandelate degradation to acetyl-CoA","Central metabolism","General metabolism","Reference group",0.000681041873258613,-0.419860372920518
+"Axilla vs Arm","L-histidine biosynthesis","Amino acid metabolism","Natural moisturizing factor","Comparison group",0.000894883868347052,0.348987978306857
+"Axilla vs Arm","cis-genanyl-CoA degradation","Other","Other","Reference group",0.00157495711036986,-0.503387803207587
+"Axilla vs Arm","L-arginine degradation VIII (arginine oxidase pathway)","Amino acid metabolism","Hydration & pH","Reference group",0.00169577006788733,-0.426117229355968
+"Axilla vs Arm","Lipid A-core biosynthesis","Lipid metabolism","Skin barrier lipids","Comparison group",0.0018287168679681,0.475021229431814
+"Axilla vs Arm","mycolyl-arabinogalactan-peptidoglycan complex biosynthesis","Cell envelope","Cell wall synthesis","Comparison group",0.00283731611211647,0.530429791252973
+"Axilla vs Arm","benzoyl-CoA degradation I (aerobic)","Other","Other","Reference group",0.00925933202642403,-0.38623756935719
+"Axilla vs Arm","pyruvate fermentation to propanoate I","Other","Other","Comparison group",0.010988102481043,0.410247811612914
+"Axilla vs Arm","superpathway of L-lysine, L-threonine and L-methionine biosynthesis II","Other","Other","Comparison group",0.0172557340173859,0.260271676954596
+"Axilla vs Arm","L-N&delta;-acetylornithine biosynthesis","Central metabolism","General metabolism","Comparison group",0.0235241272161525,0.292754742866353
+"Axilla vs Arm","fatty acid &alpha;-oxidation III","Lipid metabolism","Skin barrier lipids","Reference group",0.0363867055131797,-0.365584046994044
+"Axilla vs Arm","L-methionine biosynthesis III","Other","Other","Comparison group",0.0457821443657889,0.234137396094978
+"Axilla vs Arm","methyl-coenzyme M oxidation to CO2","Other","Other","Reference group",0.0498797839780622,-0.317604964887703

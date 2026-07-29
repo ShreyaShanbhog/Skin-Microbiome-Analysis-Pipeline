@@ -1,0 +1,67 @@
+"Comparison","pathway_name","Category","Skin_Relevance","Higher_in","q_isolateScalp_isolateAxilla","lfc_isolateScalp_isolateAxilla"
+"Scalp vs Axilla","N10-formyl-tetrahydrofolate biosynthesis","Vitamin/Cofactor metabolism","Cell metabolism","Comparison group",1.84724674826258e-18,1.29451334990917
+"Scalp vs Axilla","fatty acid salvage","Lipid metabolism","Skin barrier lipids","Comparison group",2.85998078962191e-14,1.08650774445848
+"Scalp vs Axilla","pyruvate fermentation to propanoate I","Other","Other","Comparison group",1.39580789196381e-12,1.28325332052816
+"Scalp vs Axilla","fatty acid &alpha;-oxidation III","Lipid metabolism","Skin barrier lipids","Comparison group",2.21286100138371e-12,1.48188057604939
+"Scalp vs Axilla","fatty acid &beta;-oxidation I","Lipid metabolism","Skin barrier lipids","Comparison group",3.21685552622254e-12,0.965915412153506
+"Scalp vs Axilla","superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)","Sulfur metabolism","Sulfur amino acids","Comparison group",9.66626595646759e-12,0.99513438352886
+"Scalp vs Axilla","superpathway of L-methionine biosynthesis (by sulfhydrylation)","Other","Other","Comparison group",2.87490094787275e-11,0.910764518559017
+"Scalp vs Axilla","L-histidine degradation III","Amino acid metabolism","Natural moisturizing factor","Reference group",4.37842111441522e-10,-1.18088558637241
+"Scalp vs Axilla","ADP-L-glycero-&beta;-D-manno-heptose biosynthesis","Other","Other","Comparison group",3.19637436659606e-09,0.981830860975294
+"Scalp vs Axilla","L-arginine biosynthesis III (via N-acetyl-L-citrulline)","Amino acid metabolism","Hydration & pH","Comparison group",1.90816263027573e-07,0.867762350714292
+"Scalp vs Axilla","lipid IVA biosynthesis","Lipid metabolism","Skin barrier lipids","Comparison group",2.73197773202503e-07,0.87623060856841
+"Scalp vs Axilla","superpathway of heme biosynthesis from glycine","Amino acid metabolism","Collagen metabolism","Comparison group",4.65438605292494e-07,0.831949190418888
+"Scalp vs Axilla","phenylacetate degradation I (aerobic)","Other","Other","Comparison group",5.52995545328322e-07,0.774941643327497
+"Scalp vs Axilla","Kdo transfer to lipid IVA III (Chlamydia)","Lipid metabolism","Skin barrier lipids","Comparison group",1.3334271946384e-06,0.840557691818043
+"Scalp vs Axilla","L-arginine biosynthesis IV (archaebacteria)","Amino acid metabolism","Hydration & pH","Comparison group",2.33558502978412e-06,0.662696294120077
+"Scalp vs Axilla","stearate biosynthesis II (bacteria and plants)","Lipid metabolism","Skin lipid synthesis","Comparison group",2.67672280810039e-06,0.794372022180252
+"Scalp vs Axilla","L-histidine degradation II","Amino acid metabolism","Natural moisturizing factor","Comparison group",6.69399363964305e-06,0.720775725496687
+"Scalp vs Axilla","L-tyrosine degradation I","Amino acid metabolism","Pigmentation precursor","Comparison group",1.02306922851275e-05,0.712103109418704
+"Scalp vs Axilla","superpathway of arginine and polyamine biosynthesis","Amino acid metabolism","Hydration & pH","Comparison group",3.67719380968112e-05,0.629296033235616
+"Scalp vs Axilla","superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation","Central metabolism","General metabolism","Reference group",0.000129667259778319,-0.568104081697986
+"Scalp vs Axilla","oleate &beta;-oxidation","Lipid metabolism","Sebum metabolism","Comparison group",0.000138218849308593,0.59559968578698
+"Scalp vs Axilla","pyruvate fermentation to acetate and lactate II","Other","Other","Reference group",0.000166504200508483,-0.684947823106123
+"Scalp vs Axilla","L-histidine degradation I","Amino acid metabolism","Natural moisturizing factor","Reference group",0.000201070938829332,-0.48815259612738
+"Scalp vs Axilla","formaldehyde assimilation I (serine pathway)","Amino acid metabolism","Barrier function","Comparison group",0.000546025623705335,0.525912688796609
+"Scalp vs Axilla","superpathway of heme biosynthesis from uroporphyrinogen-III","Cofactor metabolism","Oxidative metabolism","Comparison group",0.000760623168535721,0.52128109777389
+"Scalp vs Axilla","phosphatidylglycerol biosynthesis I (plastidic)","Other","Other","Reference group",0.00089290119979863,-0.407623696896166
+"Scalp vs Axilla","phosphatidylglycerol biosynthesis II (non-plastidic)","Other","Other","Reference group",0.000892901199798632,-0.407623696896166
+"Scalp vs Axilla","superpathway of N-acetylneuraminate degradation","Central metabolism","General metabolism","Comparison group",0.00111949027465502,0.495083736483401
+"Scalp vs Axilla","superpathway of sulfide oxidation (phototrophic sulfur bacteria)","Sulfur metabolism","Sulfur amino acids","Comparison group",0.00165654211994025,0.424409144389732
+"Scalp vs Axilla","superpathway of phospholipid biosynthesis I (bacteria)","Lipid metabolism","Skin barrier lipids","Reference group",0.0024403162252263,-0.368731682365906
+"Scalp vs Axilla","peptidoglycan maturation (meso-diaminopimelate containing)","Cell envelope","Cell wall synthesis","Reference group",0.00301340580730831,-0.370365131010801
+"Scalp vs Axilla","unsaturated, even numbered fatty acid &beta;-oxidation","Lipid metabolism","Skin barrier lipids","Comparison group",0.00494671922060031,0.487404579294831
+"Scalp vs Axilla","coenzyme A biosynthesis II (mammalian)","Other","Other","Reference group",0.00561698346783399,-0.342501064579387
+"Scalp vs Axilla","L-methionine biosynthesis II","Other","Other","Reference group",0.00582248860517582,-0.33792469057612
+"Scalp vs Axilla","L-histidine biosynthesis","Amino acid metabolism","Natural moisturizing factor","Comparison group",0.00613476785695266,0.339598253968956
+"Scalp vs Axilla","coenzyme A biosynthesis I","Other","Other","Reference group",0.00615223622117464,-0.338675473299418
+"Scalp vs Axilla","Lipid A-core biosynthesis","Lipid metabolism","Skin barrier lipids","Reference group",0.00628315868223272,-0.407173045479378
+"Scalp vs Axilla","polyisoprenoid biosynthesis (E. coli)","Other","Other","Reference group",0.00734939825038406,-0.334027785316017
+"Scalp vs Axilla","UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)","Central metabolism","General metabolism","Reference group",0.00793131044393709,-0.327880084847931
+"Scalp vs Axilla","ethylmalonyl-CoA pathway","Other","Other","Comparison group",0.00815827090544661,0.371224272943076
+"Scalp vs Axilla","CDP-diacylglycerol biosynthesis I","Other","Other","Reference group",0.00853848681223084,-0.321183693177519
+"Scalp vs Axilla","CDP-diacylglycerol biosynthesis II","Other","Other","Reference group",0.00853848681223094,-0.321183693177519
+"Scalp vs Axilla","peptidoglycan biosynthesis III (mycobacteria)","Cell envelope","Cell wall synthesis","Reference group",0.00885676594331257,-0.322448804299208
+"Scalp vs Axilla","peptidoglycan biosynthesis I (meso-diaminopimelate containing)","Cell envelope","Cell wall synthesis","Reference group",0.00940223578626019,-0.321114395051588
+"Scalp vs Axilla","UDP-N-acetyl-D-glucosamine biosynthesis I","Central metabolism","General metabolism","Reference group",0.00994152745429528,-0.319123546134173
+"Scalp vs Axilla","UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)","Central metabolism","General metabolism","Reference group",0.0100093776819158,-0.317954832019463
+"Scalp vs Axilla","2-amino-3-carboxymuconate semialdehyde degradation to glutaryl-CoA","Other","Other","Comparison group",0.0106178512274395,0.355030183543061
+"Scalp vs Axilla","S-adenosyl-L-methionine cycle I","Other","Other","Reference group",0.0144798742902645,-0.313587883699849
+"Scalp vs Axilla","GDP-D-glycero-&alpha;-D-manno-heptose biosynthesis","Other","Other","Comparison group",0.0164051337624004,0.380688509536677
+"Scalp vs Axilla","fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)","Lipid metabolism","Skin barrier lipids","Comparison group",0.0218395891901836,0.367830716513608
+"Scalp vs Axilla","superpathway of S-adenosyl-L-methionine biosynthesis","Other","Other","Comparison group",0.0226504103067141,0.365574258486536
+"Scalp vs Axilla","dTDP-N-acetylthomosamine biosynthesis","Central metabolism","General metabolism","Comparison group",0.0237263592445828,0.374819440341891
+"Scalp vs Axilla","L-tryptophan degradation XII (Geobacillus)","Other","Other","Comparison group",0.0243915113242029,0.297159264353084
+"Scalp vs Axilla","biotin biosynthesis II","Vitamin/Cofactor metabolism","Skin health","Comparison group",0.0244915929658642,0.362019790270502
+"Scalp vs Axilla","L-N&delta;-acetylornithine biosynthesis","Central metabolism","General metabolism","Comparison group",0.0255910471278896,0.311154322000752
+"Scalp vs Axilla","superpathway of L-phenylalanine and L-tyrosine biosynthesis","Amino acid metabolism","Pigmentation precursor","Comparison group",0.0266582972216828,0.277008025255791
+"Scalp vs Axilla","L-lysine fermentation to acetate and butanoate","Other","Other","Comparison group",0.0309667236302885,0.325000129753079
+"Scalp vs Axilla","superpathway of L-lysine, L-threonine and L-methionine biosynthesis I","Other","Other","Comparison group",0.0334909443895952,0.32026904479838
+"Scalp vs Axilla","superpathway of L-serine and glycine biosynthesis I","Amino acid metabolism","Collagen metabolism","Reference group",0.0349973674113304,-0.25617722502935
+"Scalp vs Axilla","L-arginine degradation II (AST pathway)","Amino acid metabolism","Hydration & pH","Comparison group",0.0354265946656008,0.378524747919888
+"Scalp vs Axilla","superpathway of sulfolactate degradation","Other","Other","Comparison group",0.035864384272766,0.321564924047952
+"Scalp vs Axilla","4-hydroxyphenylacetate degradation","Other","Other","Comparison group",0.0371587784494191,0.266187432491858
+"Scalp vs Axilla","pyruvate fermentation to acetone","Other","Other","Comparison group",0.0381515497713334,0.297234779503129
+"Scalp vs Axilla","L-tryptophan degradation IX","Other","Other","Comparison group",0.0409883378807079,0.264499302901557
+"Scalp vs Axilla","peptidoglycan biosynthesis II (staphylococci)","Cell envelope","Cell wall synthesis","Reference group",0.04577526001883,-0.307830974303927
+"Scalp vs Axilla","L-methionine biosynthesis III","Other","Other","Comparison group",0.0457821443657889,0.288441953207564

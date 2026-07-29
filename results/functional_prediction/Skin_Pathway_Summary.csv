@@ -1,0 +1,436 @@
+"pathway_name","Tissue","mean_abundance","sd","median"
+"10-cis-heptadecenoyl-CoA degradation (yeast)","Arm",3.61721235163981,17.4222219406523,0
+"10-cis-heptadecenoyl-CoA degradation (yeast)","Axilla",0.292999788201185,2.48915338485731,0
+"10-cis-heptadecenoyl-CoA degradation (yeast)","Scalp",2.98178847714749,13.3188370404858,0
+"10-trans-heptadecenoyl-CoA degradation (reductase-dependent, yeast)","Arm",3.61721235163981,17.4222219406523,0
+"10-trans-heptadecenoyl-CoA degradation (reductase-dependent, yeast)","Axilla",0.292999788201185,2.48915338485731,0
+"10-trans-heptadecenoyl-CoA degradation (reductase-dependent, yeast)","Scalp",2.98178847714749,13.3188370404858,0
+"2-amino-3-carboxymuconate semialdehyde degradation to glutaryl-CoA","Arm",159.634069736289,284.182791718858,58.7124249931304
+"2-amino-3-carboxymuconate semialdehyde degradation to glutaryl-CoA","Axilla",7.76630283367194,30.7509916789626,0
+"2-amino-3-carboxymuconate semialdehyde degradation to glutaryl-CoA","Scalp",55.2762582936733,155.227482394014,8.7511598494569
+"4-hydroxyphenylacetate degradation","Arm",143.572395252534,229.31293993643,56.5224561953764
+"4-hydroxyphenylacetate degradation","Axilla",8.6131640709433,40.6935912851211,0
+"4-hydroxyphenylacetate degradation","Scalp",35.1429896477777,93.2305979646572,0
+"9-cis, 11-trans-octadecadienoyl-CoA degradation (isomerase-dependent, yeast)","Arm",4.17331187653106,19.7654120397331,0
+"9-cis, 11-trans-octadecadienoyl-CoA degradation (isomerase-dependent, yeast)","Axilla",0.379496806834354,3.40100572947815,0
+"9-cis, 11-trans-octadecadienoyl-CoA degradation (isomerase-dependent, yeast)","Scalp",3.47432516041647,15.3231513937982,0
+"ADP-L-glycero-&beta;-D-manno-heptose biosynthesis","Arm",1545.13060396134,1360.28656444321,1142.54148311211
+"ADP-L-glycero-&beta;-D-manno-heptose biosynthesis","Axilla",216.935725435259,687.898593194646,13.5431310783414
+"ADP-L-glycero-&beta;-D-manno-heptose biosynthesis","Scalp",537.186857497198,1024.51571008903,204.978779241664
+"CDP-diacylglycerol biosynthesis I","Arm",12742.6120646235,7260.38322635317,11836.9462751768
+"CDP-diacylglycerol biosynthesis I","Axilla",6267.51817951112,4037.09860990498,5220.78171727564
+"CDP-diacylglycerol biosynthesis I","Scalp",9096.14469916643,5518.1705388732,8326.29541972142
+"CDP-diacylglycerol biosynthesis II","Arm",12742.6120646235,7260.38322635317,11836.9462751768
+"CDP-diacylglycerol biosynthesis II","Axilla",6267.51817951112,4037.09860990498,5220.78171727564
+"CDP-diacylglycerol biosynthesis II","Scalp",9096.14469916643,5518.1705388732,8326.29541972142
+"CMP-N-acetylneuraminate biosynthesis I (eukaryotes)","Arm",130.152229013561,173.338853047702,85.7725079536808
+"CMP-N-acetylneuraminate biosynthesis I (eukaryotes)","Axilla",10.2213737373185,35.5474694102247,0
+"CMP-N-acetylneuraminate biosynthesis I (eukaryotes)","Scalp",28.8842036488741,70.9018854627815,7.10061675166054
+"GDP-D-glycero-&alpha;-D-manno-heptose biosynthesis","Arm",1207.03559010495,1984.98483452404,591.328303964586
+"GDP-D-glycero-&alpha;-D-manno-heptose biosynthesis","Axilla",153.729241825149,419.532981824539,7.62890036240291
+"GDP-D-glycero-&alpha;-D-manno-heptose biosynthesis","Scalp",442.803319261588,1052.69655715856,107.995812752396
+"Kdo transfer to lipid IVA III (Chlamydia)","Arm",3492.27948598131,3557.62949917804,2327.355
+"Kdo transfer to lipid IVA III (Chlamydia)","Axilla",460.010420560748,1011.94351936336,77.825
+"Kdo transfer to lipid IVA III (Chlamydia)","Scalp",1246.46481308411,2749.24042297708,437.565
+"L-N&delta;-acetylornithine biosynthesis","Arm",2774.07266176812,1886.55938580697,2379.57739615486
+"L-N&delta;-acetylornithine biosynthesis","Axilla",1149.76790361933,1357.39539879401,785.950593373032
+"L-N&delta;-acetylornithine biosynthesis","Scalp",2364.22061929655,2087.73077011595,1795.65539333951
+"L-arginine biosynthesis I (via L-ornithine)","Arm",9436.89853084653,5698.0042193841,8351.44330523293
+"L-arginine biosynthesis I (via L-ornithine)","Axilla",4509.32272553995,3185.43520466993,3582.88733025055
+"L-arginine biosynthesis I (via L-ornithine)","Scalp",7870.95667521875,4467.36307363537,7347.40624639644
+"L-arginine biosynthesis II (acetyl cycle)","Arm",10407.4514693304,6399.33362531368,9283.24654645094
+"L-arginine biosynthesis II (acetyl cycle)","Axilla",4854.5094861471,3479.18527071259,3796.92004908855
+"L-arginine biosynthesis II (acetyl cycle)","Scalp",8541.17402979267,4915.07966627552,7946.45124491316
+"L-arginine biosynthesis III (via N-acetyl-L-citrulline)","Arm",4798.25737865301,4159.84095190711,3568.30015357898
+"L-arginine biosynthesis III (via N-acetyl-L-citrulline)","Axilla",816.345382688031,1795.93116742661,112.903033362183
+"L-arginine biosynthesis III (via N-acetyl-L-citrulline)","Scalp",1829.19260940645,2591.83684716522,965.659029647792
+"L-arginine biosynthesis IV (archaebacteria)","Arm",7930.56761245907,5028.94735431646,7384.16077526204
+"L-arginine biosynthesis IV (archaebacteria)","Axilla",1722.61597585239,2580.79189156841,668.563622126189
+"L-arginine biosynthesis IV (archaebacteria)","Scalp",4236.91699343843,3912.56817608451,3127.47074840625
+"L-arginine degradation II (AST pathway)","Arm",1064.26182714138,1437.2862994089,480.862436254901
+"L-arginine degradation II (AST pathway)","Axilla",203.050188607252,787.584799584573,7.69424673784104
+"L-arginine degradation II (AST pathway)","Scalp",319.832945035272,552.580828465596,100.044669026227
+"L-arginine degradation IX (arginine:pyruvate transaminase pathway)","Arm",313.167790389316,581.814195846031,130.308286582435
+"L-arginine degradation IX (arginine:pyruvate transaminase pathway)","Axilla",112.321506806257,634.125442745637,0
+"L-arginine degradation IX (arginine:pyruvate transaminase pathway)","Scalp",97.5542622864569,290.840349464177,14.3202023478904
+"L-arginine degradation VIII (arginine oxidase pathway)","Arm",60.6741373435472,106.248699771542,23.5492263583027
+"L-arginine degradation VIII (arginine oxidase pathway)","Axilla",4.13184037274478,18.1025596704066,0
+"L-arginine degradation VIII (arginine oxidase pathway)","Scalp",10.2732199434059,26.9961319205653,0
+"L-histidine biosynthesis","Arm",9361.63610401828,6317.4018110244,8049.82113203918
+"L-histidine biosynthesis","Axilla",3408.16566664415,3226.00627583813,2526.0129755876
+"L-histidine biosynthesis","Scalp",7727.18059122772,4976.24419372349,6588.24688493816
+"L-histidine degradation I","Arm",5811.50645651929,3923.71195369739,4583.14144157616
+"L-histidine degradation I","Axilla",3317.90022101179,2377.14937056668,2712.3857585319
+"L-histidine degradation I","Scalp",4319.00217058772,3258.18723073292,3661.72407834561
+"L-histidine degradation II","Arm",2293.03159683694,2693.30152072865,1416.9073839418
+"L-histidine degradation II","Axilla",301.045886518022,987.320534738441,17.3865004672537
+"L-histidine degradation II","Scalp",955.514563505278,1984.75346842704,312.113208408425
+"L-histidine degradation III","Arm",1235.68761119087,1059.48634494053,926.584784680727
+"L-histidine degradation III","Axilla",651.433494812046,1017.80372719169,191.227309386376
+"L-histidine degradation III","Scalp",379.181109680921,684.715113941762,145.822236534506
+"L-isoleucine biosynthesis I (from threonine)","Arm",12306.6992968576,7584.39672674467,11493.811765665
+"L-isoleucine biosynthesis I (from threonine)","Axilla",4868.87868142468,3618.22507145161,3821.20335378099
+"L-isoleucine biosynthesis I (from threonine)","Scalp",9059.17448594597,5881.54730763039,8151.37273116764
+"L-isoleucine biosynthesis II","Arm",181.884308933606,260.408011476246,97.7860680774259
+"L-isoleucine biosynthesis II","Axilla",15.6933068529351,44.2720117066011,0
+"L-isoleucine biosynthesis II","Scalp",67.0184606298137,236.60188378125,8.99340929663969
+"L-isoleucine biosynthesis III","Arm",11472.1345705181,7025.95001691183,10589.6999677708
+"L-isoleucine biosynthesis III","Axilla",4631.91858439002,3419.35793310536,3611.41900706836
+"L-isoleucine biosynthesis III","Scalp",8620.51168570816,5505.44342072568,7808.292085291
+"L-isoleucine biosynthesis IV","Arm",24.2531934241815,58.5073550757042,0
+"L-isoleucine biosynthesis IV","Axilla",2.64705785020776,11.6731631718742,0
+"L-isoleucine biosynthesis IV","Scalp",9.75595375496912,32.2654861157384,0
+"L-lysine fermentation to acetate and butanoate","Arm",207.953948013042,344.705906286542,95.2126314966673
+"L-lysine fermentation to acetate and butanoate","Axilla",26.0353596397045,215.856522042264,0
+"L-lysine fermentation to acetate and butanoate","Scalp",79.1941235787775,287.974420114888,17.2256192392624
+"L-methionine biosynthesis I","Arm",2951.00515278231,2191.56780396889,2413.71208925556
+"L-methionine biosynthesis I","Axilla",493.7952872758,814.731160785644,149.434736535548
+"L-methionine biosynthesis I","Scalp",998.838072562635,1669.87152123838,422.028267228828
+"L-methionine biosynthesis II","Arm",9474.31848341682,5391.55401899252,9039.74945644247
+"L-methionine biosynthesis II","Axilla",4277.78364326886,3037.168453371,3333.11343955946
+"L-methionine biosynthesis II","Scalp",6080.18530964958,3763.34321093429,5339.43416385113
+"L-methionine biosynthesis III","Arm",9089.6886744941,5614.99688726508,8213.64841543575
+"L-methionine biosynthesis III","Axilla",3152.12458062264,2921.11954282338,2333.36684795574
+"L-methionine biosynthesis III","Scalp",6725.73313970224,4574.57470195998,5692.13031352949
+"L-tryptophan biosynthesis","Arm",29.6360289695435,62.1434236963825,0
+"L-tryptophan biosynthesis","Axilla",6.61466833944003,32.5557351033506,0
+"L-tryptophan biosynthesis","Scalp",12.1404868814587,37.6966189347292,0
+"L-tryptophan degradation IX","Arm",215.764991805027,371.519179008309,85.3807440266852
+"L-tryptophan degradation IX","Axilla",11.4125419247768,49.6928553701408,0
+"L-tryptophan degradation IX","Scalp",74.9051314312289,217.740827376447,10.1462345577971
+"L-tryptophan degradation X (mammalian, via tryptamine)","Arm",550.097928963446,682.375674407497,352.651688581765
+"L-tryptophan degradation X (mammalian, via tryptamine)","Axilla",80.4123415097028,185.022569969822,3.6507490966448
+"L-tryptophan degradation X (mammalian, via tryptamine)","Scalp",203.610487346639,466.815561512816,83.2578048428114
+"L-tryptophan degradation XI (mammalian, via kynurenine)","Arm",0.299065420560748,3.45382676320832,0
+"L-tryptophan degradation XI (mammalian, via kynurenine)","Axilla",0,0,0
+"L-tryptophan degradation XI (mammalian, via kynurenine)","Scalp",0,0,0
+"L-tryptophan degradation XII (Geobacillus)","Arm",43.6946018012636,71.677716982479,15.4025064384167
+"L-tryptophan degradation XII (Geobacillus)","Axilla",2.10349702448262,11.2993484615473,0
+"L-tryptophan degradation XII (Geobacillus)","Scalp",9.44974546557318,26.2278381569407,0
+"L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde","Arm",207.057579388345,393.326430891771,72.7851625570833
+"L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde","Axilla",14.3733926651256,67.1299426427603,0
+"L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde","Scalp",72.6701737469339,195.924262341134,12.9640455473108
+"L-tyrosine degradation I","Arm",1800.49654708455,2115.23187394108,1045.1054963775
+"L-tyrosine degradation I","Axilla",215.364611319834,744.899541244329,9.28459587923172
+"L-tyrosine degradation I","Scalp",661.285140514511,1518.31251569613,174.140681295814
+"L-valine biosynthesis","Arm",12909.627509141,8122.47734404677,11761.9810415825
+"L-valine biosynthesis","Axilla",4909.25406440285,3725.9951205209,3766.50454891734
+"L-valine biosynthesis","Scalp",9240.09817101084,6180.72594887005,8248.00985210381
+"Lipid A-core biosynthesis","Arm",5.70675871096861,22.2847917587112,0
+"Lipid A-core biosynthesis","Axilla",2.03425937661776,9.84047073136487,0
+"Lipid A-core biosynthesis","Scalp",1.68140347291745,6.57702626776198,0
+"N10-formyl-tetrahydrofolate biosynthesis","Arm",8349.22724438069,5539.3892615531,7281.77320170753
+"N10-formyl-tetrahydrofolate biosynthesis","Axilla",1695.93788864727,2430.98479500689,711.748693366028
+"N10-formyl-tetrahydrofolate biosynthesis","Scalp",6080.47206924671,4427.60508497481,5077.99071421383
+"NAD biosynthesis II (from tryptophan)","Arm",315.444200041994,569.303864371496,114.544137500492
+"NAD biosynthesis II (from tryptophan)","Axilla",22.3559767952315,103.429884908429,0
+"NAD biosynthesis II (from tryptophan)","Scalp",112.247588355343,297.871729144563,20.4565324286558
+"S-adenosyl-L-methionine cycle I","Arm",8395.58519869289,4309.25720117198,7837.58234178238
+"S-adenosyl-L-methionine cycle I","Axilla",3768.02514957431,2688.70377345113,3064.2096511089
+"S-adenosyl-L-methionine cycle I","Scalp",5506.79434714192,3529.16216125982,4918.24373816557
+"TCA cycle VII (acetate-producers)","Arm",5541.18144467721,3474.33994822609,4967.53335957581
+"TCA cycle VII (acetate-producers)","Axilla",2445.19222403804,2295.77024157467,1865.45469742731
+"TCA cycle VII (acetate-producers)","Scalp",3552.48685184436,2698.253341496,2971.43820592633
+"UDP-N-acetyl-D-glucosamine biosynthesis I","Arm",10180.7826175819,5825.7558761834,9498.03763556172
+"UDP-N-acetyl-D-glucosamine biosynthesis I","Axilla",5401.29783809434,3421.92351975507,4487.7241218402
+"UDP-N-acetyl-D-glucosamine biosynthesis I","Scalp",7831.41192658162,4564.42513315008,7206.17556580172
+"UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)","Arm",11608.307090953,6447.23164526296,11079.3534952188
+"UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)","Axilla",6011.03834592885,3745.59668170368,4926.79521174888
+"UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)","Scalp",8709.70241133142,5166.35342728316,8142.85235598346
+"UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)","Arm",11458.7177889175,6395.91891617304,10851.0382894412
+"UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)","Axilla",5868.8019260807,3678.09073305909,4782.58331332421
+"UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)","Scalp",8585.19002074551,5108.40162414902,8070.83614117496
+"archaetidylserine and archaetidylethanolamine biosynthesis","Arm",0.362572954325241,2.78915708891171,0
+"archaetidylserine and archaetidylethanolamine biosynthesis","Axilla",0.0946134195546057,1.02270892173044,0
+"archaetidylserine and archaetidylethanolamine biosynthesis","Scalp",0.267217671872484,1.76541963529658,0
+"benzoyl-CoA degradation I (aerobic)","Arm",251.846354344113,437.97292132643,94.8490869231026
+"benzoyl-CoA degradation I (aerobic)","Axilla",19.5073975448238,70.1964152640697,0
+"benzoyl-CoA degradation I (aerobic)","Scalp",87.4675097616654,250.856345192221,21.3141986359823
+"biotin biosynthesis II","Arm",3700.89116358213,2979.35585746095,2884.1364120999
+"biotin biosynthesis II","Axilla",2599.75927466137,2342.56410904384,2206.01832894065
+"biotin biosynthesis II","Scalp",5822.13702913591,3394.34824496473,5460.16451301236
+"ceramide de novo biosynthesis","Arm",1.03290167745312,4.46950942405316,0
+"ceramide de novo biosynthesis","Axilla",0,0,0
+"ceramide de novo biosynthesis","Scalp",0.442232605538401,2.82451617451039,0
+"cis-genanyl-CoA degradation","Arm",773.732046684095,1526.62440454227,286.751880056167
+"cis-genanyl-CoA degradation","Axilla",168.056379590678,804.334819942672,0
+"cis-genanyl-CoA degradation","Scalp",212.026533200711,648.180516199636,51.336628600646
+"coenzyme A biosynthesis I","Arm",10465.9435127708,5805.64529130352,10003.9846957024
+"coenzyme A biosynthesis I","Axilla",5399.04391675911,3394.58333801381,4491.42939740801
+"coenzyme A biosynthesis I","Scalp",7704.92604294788,4563.15524303935,7146.58982863266
+"coenzyme A biosynthesis II (mammalian)","Arm",10322.1661836605,5784.46741878395,9839.37801900335
+"coenzyme A biosynthesis II (mammalian)","Axilla",5393.56695595176,3397.0682011659,4503.99830632232
+"coenzyme A biosynthesis II (mammalian)","Scalp",7668.60968431786,4542.41901587567,7150.4039288946
+"coenzyme B biosynthesis","Arm",3.57435214374135,11.5045400209124,0
+"coenzyme B biosynthesis","Axilla",0.0484546476906967,0.708830386570385,0
+"coenzyme B biosynthesis","Scalp",0.503505356064342,3.69748311576264,0
+"coenzyme M biosynthesis I","Arm",62.6103946739359,160.807160401744,14.1696994608898
+"coenzyme M biosynthesis I","Axilla",3.3826061471243,13.8436773981747,0
+"coenzyme M biosynthesis I","Scalp",21.1934066130463,78.658419399437,0
+"dTDP-N-acetylthomosamine biosynthesis","Arm",593.569979493166,742.703277181774,351.857541919279
+"dTDP-N-acetylthomosamine biosynthesis","Axilla",97.906845476113,386.702758138976,2.99449397395718
+"dTDP-N-acetylthomosamine biosynthesis","Scalp",182.438687753173,295.759198661767,69.9296709309051
+"dTDP-N-acetylviosamine biosynthesis","Arm",383.508802718526,590.707716864841,225.807491911646
+"dTDP-N-acetylviosamine biosynthesis","Axilla",43.0577124815061,127.952177426728,0
+"dTDP-N-acetylviosamine biosynthesis","Scalp",124.074776905183,308.084759113572,33.1087294178472
+"diacylglycerol and triacylglycerol biosynthesis","Arm",1.0974796139674,9.92655370197614,0
+"diacylglycerol and triacylglycerol biosynthesis","Axilla",0.187708978381194,2.7459456223478,0
+"diacylglycerol and triacylglycerol biosynthesis","Scalp",0,0,0
+"ethylmalonyl-CoA pathway","Arm",537.374447013821,805.129678038508,227.847421112619
+"ethylmalonyl-CoA pathway","Axilla",40.3926516073795,188.157190354247,0
+"ethylmalonyl-CoA pathway","Scalp",225.918852837752,700.051967183587,38.7891246378004
+"fatty acid &alpha;-oxidation III","Arm",1583.57796708204,1752.248418423,1002.43890352233
+"fatty acid &alpha;-oxidation III","Axilla",575.535011858444,1090.65014350666,117.864343870002
+"fatty acid &alpha;-oxidation III","Scalp",2365.46551478777,2354.46201582795,1514.48790728158
+"fatty acid &beta;-oxidation I","Arm",9113.5301194612,8563.9233549638,6630.73831627163
+"fatty acid &beta;-oxidation I","Axilla",1615.56999962172,2757.7971221563,702.834150482755
+"fatty acid &beta;-oxidation I","Scalp",4838.94595756218,4795.06623914209,3452.9166122507
+"fatty acid &beta;-oxidation II (peroxisome)","Arm",10528.9800592792,9469.03423582436,7880.6891929455
+"fatty acid &beta;-oxidation II (peroxisome)","Axilla",2771.10652848615,3297.12457633538,1713.43154760719
+"fatty acid &beta;-oxidation II (peroxisome)","Scalp",5815.83431897977,5644.99538852515,4315.30545440965
+"fatty acid &beta;-oxidation VI (peroxisome)","Arm",3965.26956574418,5058.02614763933,2283.65361644422
+"fatty acid &beta;-oxidation VI (peroxisome)","Axilla",730.684946966412,1509.20200018028,239.229977924456
+"fatty acid &beta;-oxidation VI (peroxisome)","Scalp",1322.56719922111,2410.81906593095,389.496074882356
+"fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)","Arm",939.18115977562,1247.8950115327,625.516586919488
+"fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)","Axilla",132.404961703697,302.138460166801,14.7488203341121
+"fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)","Scalp",222.285705174518,367.648896903465,84.9759490043542
+"fatty acid salvage","Arm",12241.5304843793,11287.1878136802,9076.67611297503
+"fatty acid salvage","Axilla",2073.86356891931,3651.92633606115,795.484148105681
+"fatty acid salvage","Scalp",6526.29966961687,6759.47774450612,4546.99140366681
+"fluoroacetate and fluorothreonine biosynthesis","Arm",4.29243141554604,14.9845131735076,0
+"fluoroacetate and fluorothreonine biosynthesis","Axilla",0.10608983039046,1.30628794055685,0
+"fluoroacetate and fluorothreonine biosynthesis","Scalp",0.913733246031677,4.65946214377674,0
+"folate transformations II","Arm",10415.4937823397,5779.97086384741,9943.16322983
+"folate transformations II","Axilla",4891.54138691066,3289.8704580391,3835.29459435504
+"folate transformations II","Scalp",7685.49133812029,4360.255723683,7119.74458463352
+"formaldehyde assimilation I (serine pathway)","Arm",3513.45704904772,3208.81418701361,2539.98102459031
+"formaldehyde assimilation I (serine pathway)","Axilla",573.641280731706,1407.27926033995,53.3328336458017
+"formaldehyde assimilation I (serine pathway)","Scalp",1395.47265570652,2482.7481475104,620.645436530785
+"glycine betaine degradation I","Arm",435.76949947961,728.636016167626,156.29737311996
+"glycine betaine degradation I","Axilla",42.7961868928775,192.208264651658,0
+"glycine betaine degradation I","Scalp",153.317489750125,391.956431156172,30.227355006699
+"heme biosynthesis I (aerobic)","Arm",6972.28529912763,4511.12076845558,6219.51140182136
+"heme biosynthesis I (aerobic)","Axilla",3722.57095527499,2735.779833894,2870.67372275953
+"heme biosynthesis I (aerobic)","Scalp",6784.70025238346,3853.05190898702,6401.86459685157
+"heme biosynthesis II (anaerobic)","Arm",1696.05951917014,1444.96466297624,1255.95140704991
+"heme biosynthesis II (anaerobic)","Axilla",446.741755589641,1147.97708826844,45.2458912523964
+"heme biosynthesis II (anaerobic)","Scalp",565.719007079846,801.914631875717,225.483815672269
+"hexitol fermentation to lactate, formate, ethanol and acetate","Arm",1093.46287003483,1018.42934900057,836.621740482744
+"hexitol fermentation to lactate, formate, ethanol and acetate","Axilla",169.614658320256,505.449045363083,15.9684173540364
+"hexitol fermentation to lactate, formate, ethanol and acetate","Scalp",367.684791787308,551.709296599041,173.522571998472
+"lipid IVA biosynthesis","Arm",3334.0061436166,3037.20902820509,2364.9708833044
+"lipid IVA biosynthesis","Axilla",460.568956677352,1011.32566395478,69.9129063031454
+"lipid IVA biosynthesis","Scalp",1164.06290535513,2315.69903311255,468.092941529737
+"long chain fatty acid ester synthesis for microdiesel production","Arm",54.2930276960585,115.2198842391,19.5443399068715
+"long chain fatty acid ester synthesis for microdiesel production","Axilla",2.84521817004108,14.3989704752832,0
+"long chain fatty acid ester synthesis for microdiesel production","Scalp",8.10743174009359,25.8035915278336,0
+"malonate degradation II (biotin-dependent)","Arm",0.82558488019054,3.82274287322687,0
+"malonate degradation II (biotin-dependent)","Axilla",0.0834554766910626,1.11025365064817,0
+"malonate degradation II (biotin-dependent)","Scalp",0.222972633591429,1.52515905870933,0
+"mandelate degradation to acetyl-CoA","Arm",252.785427280967,365.997800191578,128.608214234381
+"mandelate degradation to acetyl-CoA","Axilla",15.755359546054,66.5986449602631,0
+"mandelate degradation to acetyl-CoA","Scalp",67.5957368638363,182.262309411426,0
+"mannosylglycerate biosynthesis I","Arm",1.3733192641663,7.86073599957063,0
+"mannosylglycerate biosynthesis I","Axilla",0.292313333435855,3.81572633450713,0
+"mannosylglycerate biosynthesis I","Scalp",0.656146017539577,4.10596845175814,0
+"methanogenesis from acetate","Arm",44.4551549868096,115.557461852469,11.5952181223344
+"methanogenesis from acetate","Axilla",7.4048563281863,32.0943482673995,0
+"methanogenesis from acetate","Scalp",21.197051430134,90.4119279699686,0
+"methyl-coenzyme M oxidation to CO2","Arm",183.631767720729,417.033842241556,51.6274488815447
+"methyl-coenzyme M oxidation to CO2","Axilla",18.8580690579454,130.882556534627,0
+"methyl-coenzyme M oxidation to CO2","Scalp",64.425611889467,194.957307512893,9.49478705787138
+"monoacylglycerol metabolism (yeast)","Arm",0.0785604834905343,0.861859972494607,0
+"monoacylglycerol metabolism (yeast)","Axilla",0.0519516217702033,0.759986707103888,0
+"monoacylglycerol metabolism (yeast)","Scalp",0,0,0
+"mycolyl-arabinogalactan-peptidoglycan complex biosynthesis","Arm",2539.82423424311,2093.43280508515,2108.87491166252
+"mycolyl-arabinogalactan-peptidoglycan complex biosynthesis","Axilla",1811.50243928072,2643.12833339216,787.718841976136
+"mycolyl-arabinogalactan-peptidoglycan complex biosynthesis","Scalp",2955.51347308419,3071.30668217641,1859.48894129985
+"naphthalene degradation to acetyl-CoA","Arm",7.38030906975681,24.8694880649769,0
+"naphthalene degradation to acetyl-CoA","Axilla",0,0,0
+"naphthalene degradation to acetyl-CoA","Scalp",0.891219462544207,8.53504386318087,0
+"oleate &beta;-oxidation","Arm",4055.67252668427,4964.19632393363,2370.9895095932
+"oleate &beta;-oxidation","Axilla",445.034206563024,1031.93367741053,56.0003873541342
+"oleate &beta;-oxidation","Scalp",1152.04458315185,1915.11107338924,459.578883821611
+"pantothenate and coenzyme A biosynthesis I","Arm",8610.48899838546,5206.92216937688,7890.97095588291
+"pantothenate and coenzyme A biosynthesis I","Axilla",4012.85757153351,2805.08728891546,3298.26453134116
+"pantothenate and coenzyme A biosynthesis I","Scalp",6863.9904896544,3866.24156189431,6536.08101882514
+"peptidoglycan biosynthesis I (meso-diaminopimelate containing)","Arm",11654.0413618686,6492.77229845905,11174.1476628463
+"peptidoglycan biosynthesis I (meso-diaminopimelate containing)","Axilla",6027.54915513671,3785.40063702377,4945.85206160484
+"peptidoglycan biosynthesis I (meso-diaminopimelate containing)","Scalp",8767.99859180575,5170.94724719838,8202.5351832255
+"peptidoglycan biosynthesis II (staphylococci)","Arm",6500.20090595227,3739.14451525181,5678.70991430979
+"peptidoglycan biosynthesis II (staphylococci)","Axilla",4438.62090992479,3229.18881840154,3903.85359358963
+"peptidoglycan biosynthesis II (staphylococci)","Scalp",6076.8332225146,3726.43156966203,5820.50260110313
+"peptidoglycan biosynthesis III (mycobacteria)","Arm",12202.8131280402,6776.64124001807,11540.5808738103
+"peptidoglycan biosynthesis III (mycobacteria)","Axilla",6233.43797356324,3879.7535813214,5119.84107995762
+"peptidoglycan biosynthesis III (mycobacteria)","Scalp",9094.88025206526,5405.56688217179,8394.80105076675
+"peptidoglycan biosynthesis IV (Enterococcus faecium)","Arm",3153.77945284397,2594.43741524067,2539.69769621646
+"peptidoglycan biosynthesis IV (Enterococcus faecium)","Axilla",723.434063323577,1459.11222375428,145.892316425216
+"peptidoglycan biosynthesis IV (Enterococcus faecium)","Scalp",1142.53717980244,1649.82008717336,600.887614062616
+"peptidoglycan biosynthesis V (&beta;-lactam resistance)","Arm",6792.57471056681,4314.76802502225,5843.67456521757
+"peptidoglycan biosynthesis V (&beta;-lactam resistance)","Axilla",2290.03597736043,2429.35157087318,1606.36805542382
+"peptidoglycan biosynthesis V (&beta;-lactam resistance)","Scalp",3360.19114369423,3194.25616173266,2364.42288565164
+"peptidoglycan maturation (meso-diaminopimelate containing)","Arm",26370.9076340322,16816.9471552259,22911.0042871704
+"peptidoglycan maturation (meso-diaminopimelate containing)","Axilla",10412.3009420635,7551.76585333958,8576.36093122685
+"peptidoglycan maturation (meso-diaminopimelate containing)","Scalp",15445.2967871654,13285.8945292293,12196.6886074579
+"phenylacetate degradation I (aerobic)","Arm",1554.70768638242,1781.40597434476,986.706422595478
+"phenylacetate degradation I (aerobic)","Axilla",171.583199552188,453.591956272179,11.3097531642767
+"phenylacetate degradation I (aerobic)","Scalp",487.369508113656,876.760540586872,203.370137284102
+"phosphatidylglycerol biosynthesis I (plastidic)","Arm",11985.0372503336,6667.69761713175,10760.3836410586
+"phosphatidylglycerol biosynthesis I (plastidic)","Axilla",5841.32463381465,3772.90295890996,4773.35888112431
+"phosphatidylglycerol biosynthesis I (plastidic)","Scalp",7932.10190619061,5087.81231002027,6881.01402917984
+"phosphatidylglycerol biosynthesis II (non-plastidic)","Arm",11985.0372503336,6667.69761713175,10760.3836410586
+"phosphatidylglycerol biosynthesis II (non-plastidic)","Axilla",5841.32463381465,3772.90295890996,4773.35888112431
+"phosphatidylglycerol biosynthesis II (non-plastidic)","Scalp",7932.10190619061,5087.81231002027,6881.01402917984
+"phosphopantothenate biosynthesis I","Arm",8372.77091436275,5223.69702181772,7358.44429739408
+"phosphopantothenate biosynthesis I","Axilla",4344.71345025909,3099.38887209601,3502.44915229964
+"phosphopantothenate biosynthesis I","Scalp",6925.4899801234,3961.10589050281,6442.91343214123
+"phosphopantothenate biosynthesis III","Arm",1.18039866686087,5.97420732031137,0
+"phosphopantothenate biosynthesis III","Axilla",0.162846694028002,1.76096098397133,0
+"phosphopantothenate biosynthesis III","Scalp",0.602050533015659,3.19979536562557,0
+"polyisoprenoid biosynthesis (E. coli)","Arm",11172.9249977825,6050.80103116406,10958.8315016235
+"polyisoprenoid biosynthesis (E. coli)","Axilla",6052.76102559177,3897.83362718689,4989.64645014336
+"polyisoprenoid biosynthesis (E. coli)","Scalp",8641.53059605304,5135.90750780173,8083.02818199928
+"propanoyl-CoA degradation II","Arm",0.645144409498513,2.56369739354194,0
+"propanoyl-CoA degradation II","Axilla",0,0,0
+"propanoyl-CoA degradation II","Scalp",0.673479665191634,4.60880059338877,0
+"pyruvate fermentation to acetate and lactate II","Arm",2760.57761583622,2600.59360491729,2103.35768421601
+"pyruvate fermentation to acetate and lactate II","Axilla",2236.56888885319,2309.59466379248,1565.66703271544
+"pyruvate fermentation to acetate and lactate II","Scalp",1699.50951584801,1649.04473864526,1195.47167876085
+"pyruvate fermentation to acetone","Arm",281.828223741749,310.788498563658,186.568297735239
+"pyruvate fermentation to acetone","Axilla",24.4394966287079,66.1353917452565,0
+"pyruvate fermentation to acetone","Scalp",97.2604235061548,213.517408863905,25.4049949362427
+"pyruvate fermentation to isobutanol (engineered)","Arm",12689.6273936724,7788.59309755886,11929.8596283859
+"pyruvate fermentation to isobutanol (engineered)","Axilla",4807.2108204002,3696.52448401484,3900.24220342599
+"pyruvate fermentation to isobutanol (engineered)","Scalp",9170.56214487172,5954.18187597024,8197.17274722031
+"pyruvate fermentation to propanoate I","Arm",1419.62628518869,1754.45009754274,877.958380969287
+"pyruvate fermentation to propanoate I","Axilla",873.212380719068,2163.6968273018,130.325814598485
+"pyruvate fermentation to propanoate I","Scalp",3583.01030955801,5019.04618774496,1887.96076995574
+"pyruvate fermentation to propanoate II (acrylate pathway)","Arm",27.1251903300824,75.8789419385665,0
+"pyruvate fermentation to propanoate II (acrylate pathway)","Axilla",16.3107989529604,128.402341308851,0
+"pyruvate fermentation to propanoate II (acrylate pathway)","Scalp",8.24450295629585,28.9906339965087,0
+"reductive acetyl coenzyme A pathway","Arm",39.2420774132962,98.0473226333549,10.4434053125723
+"reductive acetyl coenzyme A pathway","Axilla",6.34746491529566,26.0022183529547,0
+"reductive acetyl coenzyme A pathway","Scalp",17.4287999853691,73.1177578290144,0
+"sphingolipid biosynthesis (plants)","Arm",1.30012063382788,5.6537310909163,0
+"sphingolipid biosynthesis (plants)","Axilla",0,0,0
+"sphingolipid biosynthesis (plants)","Scalp",0.575368973254435,3.8548388698295,0
+"sphingolipid biosynthesis (yeast)","Arm",0.0627271333981234,0.917618852558096,0
+"sphingolipid biosynthesis (yeast)","Axilla",0,0,0
+"sphingolipid biosynthesis (yeast)","Scalp",0.045602937003766,0.667113455688808,0
+"stearate biosynthesis II (bacteria and plants)","Arm",6187.87450052006,5248.31076587889,4593.6140545438
+"stearate biosynthesis II (bacteria and plants)","Axilla",929.739423653761,2100.46147574516,128.287767387059
+"stearate biosynthesis II (bacteria and plants)","Scalp",2297.22076550549,3757.75085517667,1065.08886003618
+"superpathay of heme biosynthesis from glutamate","Arm",7950.28934759013,5157.07529790592,7142.35434351843
+"superpathay of heme biosynthesis from glutamate","Axilla",3601.38283596852,2909.66165847659,2794.56901701411
+"superpathay of heme biosynthesis from glutamate","Scalp",7144.09611343934,4265.88051436426,6537.3949744738
+"superpathway of (Kdo)2-lipid A biosynthesis","Arm",1105.80879172992,1049.33797441116,773.44309493527
+"superpathway of (Kdo)2-lipid A biosynthesis","Axilla",98.8951537969672,259.068205216532,0
+"superpathway of (Kdo)2-lipid A biosynthesis","Scalp",230.242221279526,403.665179408657,96.1892568683449
+"superpathway of L-arginine and L-ornithine degradation","Arm",291.907656717994,420.943786270582,129.390974974295
+"superpathway of L-arginine and L-ornithine degradation","Axilla",31.3070625775732,118.389127064875,0
+"superpathway of L-arginine and L-ornithine degradation","Scalp",57.0103139084594,132.463222354966,8.71779209884112
+"superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation","Arm",291.907656717994,420.943786270582,129.390974974295
+"superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation","Axilla",31.3070625775732,118.389127064875,0
+"superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation","Scalp",57.0103139084594,132.463222354966,8.71779209884112
+"superpathway of L-isoleucine biosynthesis I","Arm",11812.2398864168,7120.07553932802,11064.3019873079
+"superpathway of L-isoleucine biosynthesis I","Axilla",4780.74121057977,3508.56433570185,3618.27739856435
+"superpathway of L-isoleucine biosynthesis I","Scalp",8633.51905378082,5382.74386067954,7721.33351215514
+"superpathway of L-lysine, L-threonine and L-methionine biosynthesis I","Arm",6120.24367287036,3659.82625679823,5295.39305665458
+"superpathway of L-lysine, L-threonine and L-methionine biosynthesis I","Axilla",1145.26741209847,1668.86870308622,492.608360477489
+"superpathway of L-lysine, L-threonine and L-methionine biosynthesis I","Scalp",2434.7921845697,3047.79828771908,1464.91901797681
+"superpathway of L-lysine, L-threonine and L-methionine biosynthesis II","Arm",10278.338704102,6225.72444244186,9341.91413606975
+"superpathway of L-lysine, L-threonine and L-methionine biosynthesis II","Axilla",3587.6237775192,3277.71385410337,2697.01743244337
+"superpathway of L-lysine, L-threonine and L-methionine biosynthesis II","Scalp",7282.30126174381,4810.58278723207,6425.22885826953
+"superpathway of L-methionine biosynthesis (by sulfhydrylation)","Arm",8808.23668508754,6191.58415053081,7594.42924249216
+"superpathway of L-methionine biosynthesis (by sulfhydrylation)","Axilla",1747.7758006804,2493.47813412917,867.370722569467
+"superpathway of L-methionine biosynthesis (by sulfhydrylation)","Scalp",5184.7943017934,4389.71796350215,4219.45415536705
+"superpathway of L-methionine biosynthesis (transsulfuration)","Arm",4556.61512249208,3079.30348420315,3822.59187903705
+"superpathway of L-methionine biosynthesis (transsulfuration)","Axilla",806.163578976027,1262.62423930009,277.470132675358
+"superpathway of L-methionine biosynthesis (transsulfuration)","Scalp",1624.50594934308,2426.02101884798,775.090877050154
+"superpathway of L-methionine salvage and degradation","Arm",110.839751913556,301.908186668154,29.3916688527168
+"superpathway of L-methionine salvage and degradation","Axilla",5.71692582106329,43.1033183353202,0
+"superpathway of L-methionine salvage and degradation","Scalp",25.1655760858689,85.5135219389716,0
+"superpathway of L-phenylalanine and L-tyrosine biosynthesis","Arm",10.7771831182459,27.3900347729379,0
+"superpathway of L-phenylalanine and L-tyrosine biosynthesis","Axilla",0.957107285597407,4.02697867523942,0
+"superpathway of L-phenylalanine and L-tyrosine biosynthesis","Scalp",8.30382543440331,42.7964987288633,0
+"superpathway of L-phenylalanine biosynthesis","Arm",10955.0031535833,6241.76742151805,10312.3694220573
+"superpathway of L-phenylalanine biosynthesis","Axilla",4759.01383222033,3267.50337105538,3749.60257887211
+"superpathway of L-phenylalanine biosynthesis","Scalp",8258.77770158277,4891.73591453729,7675.37851673289
+"superpathway of L-serine and glycine biosynthesis I","Arm",10952.9421994899,6549.14655280071,10083.8736873508
+"superpathway of L-serine and glycine biosynthesis I","Axilla",5236.66327083529,3594.70825485733,4203.34527267276
+"superpathway of L-serine and glycine biosynthesis I","Scalp",8050.49440344109,4872.24826231883,7292.06114382862
+"superpathway of L-tryptophan biosynthesis","Arm",62.9106390925794,130.229252435584,0
+"superpathway of L-tryptophan biosynthesis","Axilla",13.9232097885217,68.0340575512891,0
+"superpathway of L-tryptophan biosynthesis","Scalp",25.7251696386158,78.8301932770199,0
+"superpathway of L-tyrosine biosynthesis","Arm",10959.4619148233,6260.48243318105,10326.7916810623
+"superpathway of L-tyrosine biosynthesis","Axilla",4750.19266858208,3255.70868408812,3752.73305873411
+"superpathway of L-tyrosine biosynthesis","Scalp",8263.37855342638,4919.28997077367,7667.7957497089
+"superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation","Arm",3190.37041167688,2070.75441244304,2815.82705334202
+"superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation","Axilla",2969.47238554838,2202.79069330275,2537.95128374636
+"superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation","Scalp",3505.64921661436,2660.95162241637,2946.96722638861
+"superpathway of N-acetylneuraminate degradation","Arm",1394.25617592694,1389.85495277675,912.117853140238
+"superpathway of N-acetylneuraminate degradation","Axilla",120.866503930544,354.288652308115,0
+"superpathway of N-acetylneuraminate degradation","Scalp",397.177914879435,744.418929471151,149.972452808686
+"superpathway of S-adenosyl-L-methionine biosynthesis","Arm",4311.43008301299,2871.30850020406,3621.72672556616
+"superpathway of S-adenosyl-L-methionine biosynthesis","Axilla",742.363747587416,1188.46347918554,253.844293631309
+"superpathway of S-adenosyl-L-methionine biosynthesis","Scalp",1557.89160539214,2240.86877239348,773.469699836133
+"superpathway of UDP-N-acetylglucosamine-derived O-antigen building blocks biosynthesis","Arm",44.7303391813944,74.6993568775214,13.4391484295546
+"superpathway of UDP-N-acetylglucosamine-derived O-antigen building blocks biosynthesis","Axilla",2.03063865566488,11.0262441300611,0
+"superpathway of UDP-N-acetylglucosamine-derived O-antigen building blocks biosynthesis","Scalp",11.1198612458755,43.3605703632048,0
+"superpathway of arginine and polyamine biosynthesis","Arm",2610.76888471833,1749.3405877693,2232.62472163954
+"superpathway of arginine and polyamine biosynthesis","Axilla",447.000932795389,1121.301878352,54.318411783764
+"superpathway of arginine and polyamine biosynthesis","Scalp",823.431158377768,999.70807142052,449.707482793607
+"superpathway of glycerol degradation to 1,3-propanediol","Arm",278.796168620236,371.081894182958,152.402772376943
+"superpathway of glycerol degradation to 1,3-propanediol","Axilla",34.5088048816242,146.852929195461,0
+"superpathway of glycerol degradation to 1,3-propanediol","Scalp",66.0102873433347,153.594348172033,22.6745869590395
+"superpathway of glyoxylate cycle and fatty acid degradation","Arm",3685.17605735037,3246.09560223232,2811.4503968264
+"superpathway of glyoxylate cycle and fatty acid degradation","Axilla",730.012737829616,1453.12938842109,235.966045245456
+"superpathway of glyoxylate cycle and fatty acid degradation","Scalp",1507.00490923084,2371.27114333233,648.868745341221
+"superpathway of heme biosynthesis from glycine","Arm",4559.12408672069,4013.48692823034,3692.96915392964
+"superpathway of heme biosynthesis from glycine","Axilla",687.367071434186,1243.11876111697,138.314767605505
+"superpathway of heme biosynthesis from glycine","Scalp",2076.3778779622,3041.48587368756,1159.45585248616
+"superpathway of heme biosynthesis from uroporphyrinogen-III","Arm",1173.16889499799,1051.29047063696,837.278552316091
+"superpathway of heme biosynthesis from uroporphyrinogen-III","Axilla",144.072082804634,449.402629268707,13.4829263423002
+"superpathway of heme biosynthesis from uroporphyrinogen-III","Scalp",342.540912927837,575.912406909894,139.394166630201
+"superpathway of lipopolysaccharide biosynthesis","Arm",21.3120635229873,72.9764690516542,0
+"superpathway of lipopolysaccharide biosynthesis","Axilla",6.33625003266287,29.7922147014589,0
+"superpathway of lipopolysaccharide biosynthesis","Scalp",6.15731163055017,22.267344579361,0
+"superpathway of mycolyl-arabinogalactan-peptidoglycan complex biosynthesis","Arm",4917.6869306116,3379.28681109231,4476.54301057564
+"superpathway of mycolyl-arabinogalactan-peptidoglycan complex biosynthesis","Axilla",2206.16316942704,2668.42856557054,1290.87263704119
+"superpathway of mycolyl-arabinogalactan-peptidoglycan complex biosynthesis","Scalp",3925.85476833021,3388.23582707291,3151.35372756919
+"superpathway of phospholipid biosynthesis I (bacteria)","Arm",12667.0460518439,7131.05744771379,11486.9766383021
+"superpathway of phospholipid biosynthesis I (bacteria)","Axilla",6127.82563184904,3939.05337430548,5050.57250496546
+"superpathway of phospholipid biosynthesis I (bacteria)","Scalp",8558.63011107375,5329.63847935848,7721.64946229462
+"superpathway of sulfide oxidation (phototrophic sulfur bacteria)","Arm",67.4730763871295,124.488035128147,19.2931605963182
+"superpathway of sulfide oxidation (phototrophic sulfur bacteria)","Axilla",3.35797437428798,14.9708309386133,0
+"superpathway of sulfide oxidation (phototrophic sulfur bacteria)","Scalp",25.0427433969074,82.3404710234235,0
+"superpathway of sulfolactate degradation","Arm",179.089254112817,328.288594617276,63.7144174488452
+"superpathway of sulfolactate degradation","Axilla",11.8276132583884,49.2191413360919,0
+"superpathway of sulfolactate degradation","Scalp",55.5831144820178,133.290422651222,10.2807910190942
+"superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)","Arm",6991.26127897798,5533.4149415066,5650.73718740686
+"superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)","Axilla",1016.95751251211,2014.60366772806,255.511977153419
+"superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)","Scalp",3123.83496433654,3834.27565563186,2072.73023763205
+"superpathway of tetrahydrofolate biosynthesis","Arm",11352.7102394782,6363.59414457897,10898.5198317936
+"superpathway of tetrahydrofolate biosynthesis","Axilla",5162.86865159907,3427.16369867092,4098.63577657508
+"superpathway of tetrahydrofolate biosynthesis","Scalp",8576.78888584157,4893.16910420323,8003.72490311433
+"superpathway of tetrahydrofolate biosynthesis and salvage","Arm",11507.9124843596,6405.62226619091,11048.870737526
+"superpathway of tetrahydrofolate biosynthesis and salvage","Axilla",5378.3656193542,3516.2163714117,4193.61291804386
+"superpathway of tetrahydrofolate biosynthesis and salvage","Scalp",8689.03025704059,4996.2148920188,8040.86082737774
+"tetrapyrrole biosynthesis II (from glycine)","Arm",8903.07482318073,5995.87346414935,7742.89132744665
+"tetrapyrrole biosynthesis II (from glycine)","Axilla",3953.99590260542,2955.75488296538,3026.08092662397
+"tetrapyrrole biosynthesis II (from glycine)","Scalp",7654.26198456757,4771.11020691868,7008.57601558788
+"unsaturated, even numbered fatty acid &beta;-oxidation","Arm",3452.88743452711,3997.78435688519,2203.68519934881
+"unsaturated, even numbered fatty acid &beta;-oxidation","Axilla",634.446890888289,1595.0881273638,59.8868911136541
+"unsaturated, even numbered fatty acid &beta;-oxidation","Scalp",1054.68588529268,1796.53434420631,410.920856446714
+"very long chain fatty acid biosynthesis I","Arm",0,0,0
+"very long chain fatty acid biosynthesis I","Axilla",0,0,0
+"very long chain fatty acid biosynthesis I","Scalp",0.0162530499900453,0.237761623630659,0
+"vitamin B6 degradation","Arm",0.89722132808821,5.21651021689621,0
+"vitamin B6 degradation","Axilla",0.0740831830354703,0.658140712929828,0
+"vitamin B6 degradation","Scalp",0.239092515963396,1.8827872156513,0
+"vitamin E biosynthesis (tocopherols)","Arm",9.75451627775349,25.9994157225018,0
+"vitamin E biosynthesis (tocopherols)","Axilla",1.26396868435709,6.77343225676777,0
+"vitamin E biosynthesis (tocopherols)","Scalp",8.23409056266633,42.5514890075669,0
+"vitamin E biosynthesis (tocotrienols)","Arm",6.53778371575669,17.4496513277936,0
+"vitamin E biosynthesis (tocotrienols)","Axilla",0.89604893234027,4.97420964374089,0
+"vitamin E biosynthesis (tocotrienols)","Scalp",5.62411596350773,28.9341097606512,0

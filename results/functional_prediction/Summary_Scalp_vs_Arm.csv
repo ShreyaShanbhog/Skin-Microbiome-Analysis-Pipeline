@@ -1,0 +1,114 @@
+"Comparison","pathway_name","Category","Skin_Relevance","Higher_in","q_isolateScalp","lfc_isolateScalp"
+"Scalp vs Arm","biotin biosynthesis II","Vitamin/Cofactor metabolism","Skin health","Comparison group",8.10894085649251e-38,1.43335652805616
+"Scalp vs Arm","pyruvate fermentation to propanoate I","Other","Other","Comparison group",1.47558266286112e-31,1.69350113214107
+"Scalp vs Arm","heme biosynthesis I (aerobic)","Cofactor metabolism","Oxidative metabolism","Comparison group",5.39976198697445e-23,0.876201932019969
+"Scalp vs Arm","superpathay of heme biosynthesis from glutamate","Cofactor metabolism","Oxidative metabolism","Comparison group",1.03847950803307e-20,0.786523470215296
+"Scalp vs Arm","tetrapyrrole biosynthesis II (from glycine)","Amino acid metabolism","Collagen metabolism","Comparison group",7.77547464294382e-20,0.748881318495047
+"Scalp vs Arm","L-arginine biosynthesis I (via L-ornithine)","Amino acid metabolism","Hydration & pH","Comparison group",2.56328730482608e-18,0.707816460654908
+"Scalp vs Arm","fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)","Lipid metabolism","Skin barrier lipids","Reference group",7.16377392924824e-18,-0.9728239295636
+"Scalp vs Arm","phosphopantothenate biosynthesis I","Other","Other","Comparison group",9.81417201495848e-18,0.702904725415152
+"Scalp vs Arm","L-arginine biosynthesis II (acetyl cycle)","Amino acid metabolism","Hydration & pH","Comparison group",1.09401201841453e-17,0.693224011147047
+"Scalp vs Arm","superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation","Central metabolism","General metabolism","Comparison group",1.24289497317285e-17,0.949229339857897
+"Scalp vs Arm","L-histidine biosynthesis","Amino acid metabolism","Natural moisturizing factor","Comparison group",7.00831476332157e-17,0.688586232275813
+"Scalp vs Arm","superpathway of (Kdo)2-lipid A biosynthesis","Lipid metabolism","Skin barrier lipids","Reference group",4.86710934508341e-16,-1.02868132040803
+"Scalp vs Arm","pantothenate and coenzyme A biosynthesis I","Other","Other","Comparison group",4.92677187391931e-16,0.659896878568335
+"Scalp vs Arm","Kdo transfer to lipid IVA III (Chlamydia)","Lipid metabolism","Skin barrier lipids","Reference group",2.65513418278686e-15,-0.892417790263059
+"Scalp vs Arm","superpathway of heme biosynthesis from uroporphyrinogen-III","Cofactor metabolism","Oxidative metabolism","Reference group",7.97601241874082e-15,-0.931162307298056
+"Scalp vs Arm","ADP-L-glycero-&beta;-D-manno-heptose biosynthesis","Other","Other","Reference group",3.0102351358468e-14,-0.846359118033126
+"Scalp vs Arm","lipid IVA biosynthesis","Lipid metabolism","Skin barrier lipids","Reference group",4.93172014436266e-14,-0.818270430877579
+"Scalp vs Arm","UDP-N-acetyl-D-glucosamine biosynthesis I","Central metabolism","General metabolism","Comparison group",8.73410966528014e-14,0.598494731243079
+"Scalp vs Arm","L-methionine biosynthesis I","Other","Other","Reference group",1.06341615110131e-13,-0.837390039857051
+"Scalp vs Arm","L-isoleucine biosynthesis III","Other","Other","Comparison group",1.63899344527363e-13,0.582988703890166
+"Scalp vs Arm","CMP-N-acetylneuraminate biosynthesis I (eukaryotes)","Central metabolism","General metabolism","Reference group",2.48874239046426e-13,-0.861439935590379
+"Scalp vs Arm","polyisoprenoid biosynthesis (E. coli)","Other","Other","Comparison group",2.59156795503356e-13,0.595910114520049
+"Scalp vs Arm","superpathway of L-serine and glycine biosynthesis I","Amino acid metabolism","Collagen metabolism","Comparison group",3.04779752441558e-13,0.565759558967844
+"Scalp vs Arm","superpathway of L-phenylalanine biosynthesis","Other","Other","Comparison group",3.28231381901636e-13,0.580541334491715
+"Scalp vs Arm","superpathway of L-tyrosine biosynthesis","Amino acid metabolism","Pigmentation precursor","Comparison group",3.74866988619764e-13,0.579813646614166
+"Scalp vs Arm","L-histidine degradation III","Amino acid metabolism","Natural moisturizing factor","Reference group",3.80469209371254e-13,-0.954172180354532
+"Scalp vs Arm","oleate &beta;-oxidation","Lipid metabolism","Sebum metabolism","Reference group",3.84672576610333e-13,-0.851379110506589
+"Scalp vs Arm","superpathway of tetrahydrofolate biosynthesis","Vitamin/Cofactor metabolism","Cell metabolism","Comparison group",4.34206187736198e-13,0.582425222205854
+"Scalp vs Arm","superpathway of tetrahydrofolate biosynthesis and salvage","Vitamin/Cofactor metabolism","Cell metabolism","Comparison group",5.87896250026709e-13,0.578829976350141
+"Scalp vs Arm","fatty acid &alpha;-oxidation III","Lipid metabolism","Skin barrier lipids","Comparison group",6.54843483938141e-13,1.11629652905535
+"Scalp vs Arm","L-isoleucine biosynthesis I (from threonine)","Other","Other","Comparison group",7.77772002415818e-13,0.561796423493471
+"Scalp vs Arm","peptidoglycan biosynthesis I (meso-diaminopimelate containing)","Cell envelope","Cell wall synthesis","Comparison group",1.18747387938744e-12,0.572257694890658
+"Scalp vs Arm","peptidoglycan biosynthesis II (staphylococci)","Cell envelope","Cell wall synthesis","Comparison group",1.26813930692847e-12,0.776291375606199
+"Scalp vs Arm","UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)","Central metabolism","General metabolism","Comparison group",1.3490462984745e-12,0.569799887389116
+"Scalp vs Arm","folate transformations II","Vitamin/Cofactor metabolism","Cell metabolism","Comparison group",1.51501718936746e-12,0.560928707190497
+"Scalp vs Arm","UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)","Central metabolism","General metabolism","Comparison group",1.7661589593855e-12,0.567322475286785
+"Scalp vs Arm","peptidoglycan biosynthesis III (mycobacteria)","Cell envelope","Cell wall synthesis","Comparison group",1.79368657157489e-12,0.564162939378456
+"Scalp vs Arm","superpathway of arginine and polyamine biosynthesis","Amino acid metabolism","Hydration & pH","Reference group",2.04557909440227e-12,-0.720466549836315
+"Scalp vs Arm","pyruvate fermentation to isobutanol (engineered)","Other","Other","Comparison group",2.47716780449622e-12,0.543471605602093
+"Scalp vs Arm","superpathway of L-isoleucine biosynthesis I","Other","Other","Comparison group",2.78262048268403e-12,0.550428931753684
+"Scalp vs Arm","coenzyme A biosynthesis II (mammalian)","Other","Other","Comparison group",2.80378944299252e-12,0.560256697194327
+"Scalp vs Arm","vitamin E biosynthesis (tocotrienols)","Other","Other","Comparison group",2.93981694031887e-12,0.859172208427701
+"Scalp vs Arm","vitamin E biosynthesis (tocopherols)","Other","Other","Comparison group",5.50323575826989e-12,0.844757468943833
+"Scalp vs Arm","L-N&delta;-acetylornithine biosynthesis","Central metabolism","General metabolism","Comparison group",5.91106930529327e-12,0.603909064867105
+"Scalp vs Arm","L-valine biosynthesis","Other","Other","Comparison group",5.98609498629035e-12,0.534117676246045
+"Scalp vs Arm","superpathway of N-acetylneuraminate degradation","Central metabolism","General metabolism","Reference group",6.60780965310751e-12,-0.857516430970143
+"Scalp vs Arm","coenzyme A biosynthesis I","Other","Other","Comparison group",7.13553102956625e-12,0.549464364283615
+"Scalp vs Arm","superpathway of L-methionine biosynthesis (transsulfuration)","Sulfur metabolism","Sulfur amino acids","Reference group",1.21748347739181e-11,-0.718991787103978
+"Scalp vs Arm","fatty acid &beta;-oxidation VI (peroxisome)","Lipid metabolism","Skin barrier lipids","Reference group",1.67310516589193e-11,-0.853481801981433
+"Scalp vs Arm","CDP-diacylglycerol biosynthesis II","Other","Other","Comparison group",2.99783873179341e-11,0.52245378357075
+"Scalp vs Arm","CDP-diacylglycerol biosynthesis I","Other","Other","Comparison group",2.99783873179342e-11,0.52245378357075
+"Scalp vs Arm","heme biosynthesis II (anaerobic)","Cofactor metabolism","Oxidative metabolism","Reference group",3.31170095419242e-11,-0.813397659100472
+"Scalp vs Arm","superpathway of S-adenosyl-L-methionine biosynthesis","Other","Other","Reference group",5.82727266528978e-11,-0.684757613425136
+"Scalp vs Arm","phenylacetate degradation I (aerobic)","Other","Other","Reference group",1.27835149884847e-10,-0.726341996107005
+"Scalp vs Arm","stearate biosynthesis II (bacteria and plants)","Lipid metabolism","Skin lipid synthesis","Reference group",2.32754196530981e-10,-0.70096119633492
+"Scalp vs Arm","N10-formyl-tetrahydrofolate biosynthesis","Vitamin/Cofactor metabolism","Cell metabolism","Comparison group",2.63964625493975e-10,0.502844596260893
+"Scalp vs Arm","superpathway of L-lysine, L-threonine and L-methionine biosynthesis II","Other","Other","Comparison group",2.8820398249868e-10,0.494718864274438
+"Scalp vs Arm","L-methionine biosynthesis III","Other","Other","Comparison group",3.49548294511214e-10,0.522579349302542
+"Scalp vs Arm","L-tyrosine degradation I","Amino acid metabolism","Pigmentation precursor","Reference group",5.15184078996377e-10,-0.792430736392215
+"Scalp vs Arm","L-histidine degradation I","Amino acid metabolism","Natural moisturizing factor","Comparison group",8.07285003780139e-10,0.55541359336318
+"Scalp vs Arm","formaldehyde assimilation I (serine pathway)","Amino acid metabolism","Barrier function","Reference group",8.71891311471473e-10,-0.663197944255259
+"Scalp vs Arm","superpathway of L-phenylalanine and L-tyrosine biosynthesis","Amino acid metabolism","Pigmentation precursor","Comparison group",1.48766933685198e-09,0.733078008532171
+"Scalp vs Arm","GDP-D-glycero-&alpha;-D-manno-heptose biosynthesis","Other","Other","Reference group",2.52367719649976e-09,-0.770222129788824
+"Scalp vs Arm","unsaturated, even numbered fatty acid &beta;-oxidation","Lipid metabolism","Skin barrier lipids","Reference group",3.86211526824423e-09,-0.744291159808694
+"Scalp vs Arm","hexitol fermentation to lactate, formate, ethanol and acetate","Other","Other","Reference group",4.35794199597229e-09,-0.697199821851799
+"Scalp vs Arm","L-arginine biosynthesis III (via N-acetyl-L-citrulline)","Amino acid metabolism","Hydration & pH","Reference group",4.74102959082914e-09,-0.592261519140057
+"Scalp vs Arm","superpathway of phospholipid biosynthesis I (bacteria)","Lipid metabolism","Skin barrier lipids","Comparison group",6.12377120765459e-09,0.456129565804566
+"Scalp vs Arm","superpathway of glyoxylate cycle and fatty acid degradation","Lipid metabolism","Skin barrier lipids","Reference group",3.71347572391316e-08,-0.601621207858367
+"Scalp vs Arm","dTDP-N-acetylthomosamine biosynthesis","Central metabolism","General metabolism","Reference group",7.17751179127619e-08,-0.719540311396699
+"Scalp vs Arm","dTDP-N-acetylviosamine biosynthesis","Central metabolism","General metabolism","Reference group",9.93112081521711e-08,-0.680236911831978
+"Scalp vs Arm","phosphatidylglycerol biosynthesis I (plastidic)","Other","Other","Comparison group",1.20806894343743e-07,0.422177936543474
+"Scalp vs Arm","phosphatidylglycerol biosynthesis II (non-plastidic)","Other","Other","Comparison group",1.20806894343743e-07,0.422177936543474
+"Scalp vs Arm","superpathway of glycerol degradation to 1,3-propanediol","Other","Other","Reference group",1.31355852345043e-07,-0.717082457056592
+"Scalp vs Arm","pyruvate fermentation to acetone","Other","Other","Reference group",1.47144562540512e-07,-0.628802748820967
+"Scalp vs Arm","superpathway of L-lysine, L-threonine and L-methionine biosynthesis I","Other","Other","Reference group",2.82705240713829e-07,-0.493877675663473
+"Scalp vs Arm","mycolyl-arabinogalactan-peptidoglycan complex biosynthesis","Cell envelope","Cell wall synthesis","Comparison group",3.14156507148724e-07,0.761790255985793
+"Scalp vs Arm","L-methionine biosynthesis II","Other","Other","Comparison group",3.30853164302555e-07,0.40829537274111
+"Scalp vs Arm","L-arginine degradation II (AST pathway)","Amino acid metabolism","Hydration & pH","Reference group",4.78593888366668e-07,-0.74579306593468
+"Scalp vs Arm","superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation","Amino acid metabolism","Hydration & pH","Reference group",6.8750003031105e-07,-0.661276046730573
+"Scalp vs Arm","superpathway of L-arginine and L-ornithine degradation","Amino acid metabolism","Hydration & pH","Reference group",6.8750003031105e-07,-0.661276046730573
+"Scalp vs Arm","S-adenosyl-L-methionine cycle I","Other","Other","Comparison group",2.59765223689058e-06,0.400856316187848
+"Scalp vs Arm","L-histidine degradation II","Amino acid metabolism","Natural moisturizing factor","Reference group",2.73987675390552e-06,-0.585619827835018
+"Scalp vs Arm","peptidoglycan biosynthesis IV (Enterococcus faecium)","Cell envelope","Cell wall synthesis","Reference group",5.61232582608385e-06,-0.584811778611229
+"Scalp vs Arm","L-isoleucine biosynthesis II","Other","Other","Reference group",1.75603230427803e-05,-0.611021760020015
+"Scalp vs Arm","pyruvate fermentation to propanoate II (acrylate pathway)","Other","Other","Comparison group",3.4440863761497e-05,0.554653275112456
+"Scalp vs Arm","superpathway of heme biosynthesis from glycine","Amino acid metabolism","Collagen metabolism","Reference group",4.74441876599228e-05,-0.409428576367649
+"Scalp vs Arm","L-tryptophan degradation X (mammalian, via tryptamine)","Other","Other","Reference group",6.60716027367515e-05,-0.471605402644108
+"Scalp vs Arm","superpathway of mycolyl-arabinogalactan-peptidoglycan complex biosynthesis","Cell envelope","Cell wall synthesis","Comparison group",9.32399132366702e-05,0.479591433271289
+"Scalp vs Arm","TCA cycle VII (acetate-producers)","Other","Other","Comparison group",9.88926293562488e-05,0.325931556532435
+"Scalp vs Arm","cis-genanyl-CoA degradation","Other","Other","Reference group",0.000154295512659417,-0.597485000598896
+"Scalp vs Arm","superpathway of L-methionine biosynthesis (by sulfhydrylation)","Other","Other","Comparison group",0.000178497924107949,0.282212217959909
+"Scalp vs Arm","ethylmalonyl-CoA pathway","Other","Other","Reference group",0.000257333112139366,-0.475760435087806
+"Scalp vs Arm","L-lysine fermentation to acetate and butanoate","Other","Other","Reference group",0.00036185149119742,-0.520086420665881
+"Scalp vs Arm","superpathway of L-tryptophan biosynthesis","Other","Other","Comparison group",0.000437150472221014,0.432528146784054
+"Scalp vs Arm","L-tryptophan biosynthesis","Other","Other","Comparison group",0.000439067170478593,0.433489907159258
+"Scalp vs Arm","fatty acid &beta;-oxidation II (peroxisome)","Lipid metabolism","Skin barrier lipids","Comparison group",0.00048479446747404,0.30225084250318
+"Scalp vs Arm","glycine betaine degradation I","Amino acid metabolism","Collagen metabolism","Reference group",0.000488546594265877,-0.471071539684364
+"Scalp vs Arm","L-arginine degradation IX (arginine:pyruvate transaminase pathway)","Amino acid metabolism","Hydration & pH","Reference group",0.000515852719343563,-0.540955239069407
+"Scalp vs Arm","mandelate degradation to acetyl-CoA","Central metabolism","General metabolism","Reference group",0.000681041873258613,-0.403779270423709
+"Scalp vs Arm","L-isoleucine biosynthesis IV","Other","Other","Comparison group",0.00142988768747537,0.382528519966729
+"Scalp vs Arm","fatty acid &beta;-oxidation I","Lipid metabolism","Skin barrier lipids","Comparison group",0.00147133968048775,0.265885979205371
+"Scalp vs Arm","L-tryptophan degradation IX","Other","Other","Reference group",0.00150447317673492,-0.389137205860522
+"Scalp vs Arm","peptidoglycan maturation (meso-diaminopimelate containing)","Cell envelope","Cell wall synthesis","Comparison group",0.00216968837353122,0.262556623148704
+"Scalp vs Arm","L-arginine degradation VIII (arginine oxidase pathway)","Amino acid metabolism","Hydration & pH","Reference group",0.0023666172628887,-0.368189852330306
+"Scalp vs Arm","L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde","Other","Other","Reference group",0.00461383494855315,-0.377716269951729
+"Scalp vs Arm","NAD biosynthesis II (from tryptophan)","Other","Other","Reference group",0.00501484844653367,-0.371694862522744
+"Scalp vs Arm","long chain fatty acid ester synthesis for microdiesel production","Lipid metabolism","Skin barrier lipids","Reference group",0.00544017961211595,-0.375049284561333
+"Scalp vs Arm","fatty acid salvage","Lipid metabolism","Skin barrier lipids","Comparison group",0.00725815767712306,0.219870633507761
+"Scalp vs Arm","2-amino-3-carboxymuconate semialdehyde degradation to glutaryl-CoA","Other","Other","Reference group",0.0106178512274395,-0.341897408939075
+"Scalp vs Arm","superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)","Sulfur metabolism","Sulfur amino acids","Reference group",0.0147786204673306,-0.201479955681627
+"Scalp vs Arm","pyruvate fermentation to acetate and lactate II","Other","Other","Comparison group",0.015468720057045,0.301736807635091
+"Scalp vs Arm","4-hydroxyphenylacetate degradation","Other","Other","Reference group",0.0176027615195022,-0.306164569556053
+"Scalp vs Arm","methyl-coenzyme M oxidation to CO2","Other","Other","Reference group",0.0498797839780622,-0.324124375868807

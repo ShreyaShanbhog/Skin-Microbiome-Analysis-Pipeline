@@ -6,13 +6,13 @@ A reproducible bioinformatics pipeline for analyzing the human skin microbiome u
 
 # Project Highlights
 
-- 🧬 Analyzed **642 human skin microbiome samples**
-- 🦠 Processed **18,834 ASVs** using DADA2
-- 🔬 Assigned taxonomy using the SILVA database
-- 📊 Compared microbial communities across **Arm, Axilla, and Scalp**
-- ⚙️ Predicted **496 microbial metabolic pathways** using PICRUSt2
-- 📈 Identified hundreds of significantly different pathways using ANCOM-BC2
-- 💄 Connected microbial functions with published microbiome skincare technologies and cosmetic ingredients
+- Analyzed **642 human skin microbiome samples**
+- Processed **18,834 ASVs** using DADA2
+- Assigned taxonomy using the SILVA database
+- Compared microbial communities across **Arm, Axilla, and Scalp**
+- Predicted **496 microbial metabolic pathways** using PICRUSt2
+- Identified hundreds of significantly different pathways using ANCOM-BC2
+- Connected microbial functions with published microbiome skincare technologies and cosmetic ingredients
 
 ---
 

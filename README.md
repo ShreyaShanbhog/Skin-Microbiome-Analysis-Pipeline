@@ -1,215 +1,371 @@
 # Skin Microbiome Analysis Pipeline
 
-A microbiome analysis pipeline built using publicly available skin microbiome sequencing data from NCBI SRA. The project aims to identify microbial composition patterns across skin sites and explore implications for skincare and cosmetic product development.
+A reproducible bioinformatics pipeline for analyzing the human skin microbiome using 16S rRNA sequencing data. This project integrates microbial taxonomic profiling, diversity analysis, differential abundance testing, and functional prediction to investigate how microbial communities differ across skin sites and how these differences may inform microbiome-based skincare product development.
 
 ---
 
-## Dataset
+# Project Highlights
 
-| Field | Detail |
-|---|---|
-| **BioProject** | PRJNA314604 |
-| **Study** | Human skin microbiome |
-| **Samples** | 642 skin swab samples |
-| **Sequencing Platform** | Illumina MiSeq |
-| **Read Type** | Single-end amplicon sequencing (16S rRNA) |
+- 🧬 Analyzed **642 human skin microbiome samples**
+- 🦠 Processed **18,834 ASVs** using DADA2
+- 🔬 Assigned taxonomy using the SILVA database
+- 📊 Compared microbial communities across **Arm, Axilla, and Scalp**
+- ⚙️ Predicted **496 microbial metabolic pathways** using PICRUSt2
+- 📈 Identified hundreds of significantly different pathways using ANCOM-BC2
+- 💄 Connected microbial functions with published microbiome skincare technologies and cosmetic ingredients
 
-**Sample Metadata Available:**
+---
+
+# Dataset
+
+| Field | Value |
+|------|------|
+| BioProject | PRJNA314604 |
+| Publication | Bouslimani et al., PNAS (2016) |
+| Samples | 642 |
+| Sample type | Human skin swabs |
+| Sequencing | Illumina MiSeq |
+| Read type | Single-end 16S rRNA amplicon |
+
+Metadata included:
+
+- Skin site
 - Age
 - Sex
 - Ethnicity
-- Skin site (Scalp, Axilla, Arm, etc.)
 
 ---
 
-## Repository Structure
+# Workflow
 
 ```
-skin-microbiome/
+Raw FASTQ
+      │
+      ▼
+FastQC + MultiQC
+      │
+      ▼
+QIIME2 Import
+      │
+      ▼
+DADA2 Denoising
+      │
+      ▼
+Taxonomic Assignment (SILVA)
+      │
+      ▼
+Alpha & Beta Diversity
+      │
+      ▼
+Differential Abundance (ANCOM-BC2)
+      │
+      ▼
+PICRUSt2 Functional Prediction
+      │
+      ▼
+Differential Pathway Analysis
+      │
+      ▼
+Biological Interpretation
+      │
+      ▼
+Cosmetic Applications
+```
+
+---
+
+# Repository Structure
+
+```
+Skin-Microbiome-Analysis-Pipeline/
+
 ├── README.md
-├── manifest.csv
-├── metadata.tsv
-├── .gitignore
+├── data/
+│   ├── metadata.tsv
+│   ├── manifest.tsv
+|   ├── taxonomy.tsv
+│   └── preprocessing_log.md
+│
 ├── scripts/
+│   ├── 01_fastqc_multiqc.sh
+│   ├── 02_qiime2_import.sh
+│   ├── 03_dada2_denoise.sh
+│   ├── 04_taxonomy_assignment.sh
+│   ├── 05_alpha_beta_diversity.sh
+│   ├── 06_export_qiime_tables.sh
+│   ├── 07_picrust2_pipeline.sh
+│   ├── 08_import_pathways.R
+│   ├── 09_exploratory_analysis.R
+│   ├── 10_ancombc2_pathways.R
+│   ├── 11_annotate_pathways.R
+│   ├── 12_pathways.R
+│   ├── 13_export_results.R
+|   └── 14_ancombc2.R 
+│
 ├── results/
-├── fastqc/
+│   ├── differential_abundance/
+|   ├── diversity/
+|   ├── taxonomy/
+│   └── functional_prediction/
+│
+├── docs/
+|   ├── lit_review/
+|   ├── methods/
+|   ├── abundance-plot.pdf/
+│   └── figures/
+│
 ├── multiqc_report.html
-├── multiqc_data/
-├── demux.qza
-├── demux.qzv
-├── table.qza
-├── table-summary.qzv
-├── rep-seqs.qza
-├── denoising-stats.qza
-├── denoising-stats.qzv
-└── docs/
-    └── preprocessing_log.md
-```
----
-
-## Pipeline Progress
-
-| Stage | Status |
-|---|---|
-| Quality Control (FastQC / MultiQC) | Complete |
-| QIIME2 Import | Complete |
-| DADA2 Denoising | Complete |
-| Taxonomic Classification (SILVA) | Complete |
-| Alpha / Beta Diversity | Complete |
-| Differential Abundance | Complete |
-| Functional Prediction (PICRUSt2) | Complete |
-| ML Classification | Next |
-
----
-
-## Phase 1
-
-### Quality Control
-
-FastQC and MultiQC were used to assess raw sequencing quality across all 642 samples.
-
-**Observations:**
-- High per-base sequence quality across all samples
-- No adapter contamination detected
-- Some GC-content deviations observed
-- Overrepresented sequences present (expected for amplicon data)
-- Sequence duplication levels consistent with amplicon sequencing
-
----
-
-### QIIME2 Import
-
-Sequences were imported into QIIME2 using `SingleEndFastqManifestPhred33V2` format.
-
-```bash
-qiime tools import \
-  --type 'SampleData[SequencesWithQuality]' \
-  --input-path manifest.tsv \
-  --output-path demux.qza \
-  --input-format SingleEndFastqManifestPhred33V2
-
-qiime demux summarize \
-  --i-data demux.qza \
-  --o-visualization demux.qzv
+├── fastqc_stats.tsv
+└── .gitignore
 ```
 
 ---
 
-### DADA2 Denoising
+# Software
 
-Reads were denoised and error-corrected using DADA2.
+| Software | Version |
+|-----------|---------|
+| QIIME2 | 2026.4 |
+| PICRUSt2 | 2.6.2 |
+| DADA2 | QIIME2 plugin |
+| SILVA | v138 |
+| R | 4.x |
+| phyloseq | Bioconductor |
+| ANCOMBC2 | Bioconductor |
 
-**Parameters:**
+---
+
+# Phase 1 – Taxonomic Analysis
+
+## Quality Control
+
+Raw sequencing reads were assessed using FastQC and summarized with MultiQC.
+
+Quality assessment showed:
+
+- High per-base sequence quality
+- No adapter contamination
+- Expected sequence duplication for amplicon sequencing
+- Minor GC-content variation across samples
+
+---
+
+## DADA2 Denoising
+
+Reads were denoised using DADA2 to remove sequencing errors and infer Amplicon Sequence Variants (ASVs).
+
+### Parameters
 
 | Parameter | Value |
-|---|---|
-| `--p-trim-left` | 0 |
-| `--p-trunc-len` | 250 |
-
-```bash
-qiime dada2 denoise-single \
-  --i-demultiplexed-seqs demux.qza \
-  --p-trunc-len 250 \
-  --p-trim-left 0 \
-  --o-table table.qza \
-  --o-representative-sequences rep-seqs.qza \
-  --o-denoising-stats denoising-stats.qza \
-  --o-base-transition-stats base-transition-stats.qza
-
-qiime metadata tabulate \
-  --m-input-file denoising-stats.qza \
-  --o-visualization denoising-stats.qzv
-
-qiime feature-table summarize \
-  --i-table table.qza \
-  --o-feature-frequencies feature-frequencies.qza \
-  --o-sample-frequencies sample-frequencies.qza \
-  --o-summary table-summary.qzv
-```
+|-----------|------|
+| trim-left | 0 |
+| trunc-len | 250 |
 
 ---
 
-## Key Results
+## Read Retention
 
-### DADA2 Read Retention (Example Sample)
+Example sample
 
 | Stage | Reads |
-|---|---|
+|------|------:|
 | Input | 6,944 |
 | Filtered | 6,827 |
 | Denoised | 6,777 |
 | Non-chimeric | 6,777 |
 
-**Per-sample retention: ~97.6%**
-
-**Overall pipeline retention (642 samples):**
-
-| Metric | Reads |
-|---|---|
-| Total Input | 11,040,199 |
-| Total Retained | 10,392,640 |
-| **Retention Rate** | **94.1%** |
-
----
-
-### Feature Table Summary
+Overall dataset
 
 | Metric | Value |
-|---|---|
-| Samples | 642 |
-| Unique ASVs | 18,834 |
-| Total Reads | 10,392,640 |
-| Minimum Reads/Sample | 3,136 |
-| Median Reads/Sample | 14,826 |
-| Mean Reads/Sample | 16,188 |
-| Maximum Reads/Sample | 86,117 |
+|------|------:|
+| Total reads | 11,040,199 |
+| Retained reads | 10,392,640 |
+| Retention | 94.1% |
 
 ---
-## Phase 2 – Functional Prediction Using PICRUSt2
 
-### Objective
-Predict the functional potential of the skin microbiome using 16S rRNA sequencing data.
+## Feature Table
 
-### Methods
-- Filtered ASVs by prevalence (≥5 samples)
-- Retained 1,793 ASVs (96.97% of sequencing reads)
-- Predicted KEGG pathways using PICRUSt2
-- Performed differential pathway abundance analysis using ANCOM-BC2
-- Visualized significant pathways using boxplots
+| Metric | Value |
+|------|------:|
+| Samples | 642 |
+| ASVs | 18,834 |
+| Total Reads | 10,392,640 |
+| Median Reads/Sample | 14,826 |
 
-### Key Results
-- 430 significant pathways (Axilla vs Arm)
-- 427 significant pathways (Scalp vs Arm)
-- 273 significant pathways (Scalp vs Axilla)
+---
 
-Major pathway categories:
+## Diversity Analysis
+
+Community diversity was evaluated using QIIME2.
+
+Analyses included:
+
+- Shannon diversity
+- Bray-Curtis dissimilarity
+- Principal Coordinate Analysis (PCoA)
+- PERMANOVA
+
+These analyses demonstrated clear differences in microbial community composition across skin sites.
+
+---
+
+## Differential Taxonomic Abundance
+
+Differential abundance testing was performed using ANCOM-BC2.
+
+Pairwise comparisons:
+
+- Arm vs Axilla
+- Arm vs Scalp
+- Axilla vs Scalp
+
+Results are available in:
+
+```
+results/differential_abundance/
+```
+
+---
+
+# Phase 2 – Functional Prediction
+
+## PICRUSt2
+
+Functional prediction was performed using PICRUSt2.
+
+### Filtering
+
+| Step | Value |
+|------|------:|
+| Initial ASVs | 18,834 |
+| Filtered ASVs | 1,793 |
+| Reads retained | 96.97% |
+
+PICRUSt2 predicted **496 MetaCyc metabolic pathways**.
+
+---
+
+## Differential Functional Analysis
+
+Predicted pathways were analyzed using ANCOM-BC2.
+
+Significant pathways identified:
+
+| Comparison | Significant pathways |
+|-----------|---------------------:|
+| Axilla vs Arm | 430 |
+| Scalp vs Arm | 427 |
+| Scalp vs Axilla | 273 |
+
+---
+
+## Major Functional Categories
+
+Differential pathways were primarily involved in:
+
 - Lipid metabolism
 - Fatty acid metabolism
 - Amino acid metabolism
 - Vitamin biosynthesis
 - Sulfur metabolism
-
-### Biological Findings
-- Scalp microbiome enriched for lipid metabolism pathways.
-- Arm microbiome displayed broader biosynthetic potential.
-- Axillary microbiome exhibited greater functional specialization.
-
-### Cosmetic Relevance
-The predicted microbial functions support tissue-specific microbiome skincare strategies using prebiotics, postbiotics, and barrier-supportive ingredients.
+- Cell wall biosynthesis
+- Energy metabolism
 
 ---
 
-## Requirements
+# Biological Interpretation
 
-- [QIIME2](https://qiime2.org/) (2023.x+)
-- FastQC
-- MultiQC
-- Python 3.8+
+Distinct skin sites exhibited different predicted microbial functions.
+
+### Scalp
+
+- Increased lipid and fatty acid metabolism
+- Greater biosynthetic activity
+- Consistent with a lipid-rich sebaceous environment
+
+### Axilla
+
+- Specialized metabolic pathways
+- Enhanced amino acid metabolism
+- Functional adaptation to moist skin conditions
+
+### Arm
+
+- Broader biosynthetic potential
+- Higher abundance of several vitamin and cofactor biosynthesis pathways
+- More metabolically diverse predicted community
 
 ---
 
-## Citation
+# Cosmetic Relevance
 
-If referencing this dataset:
+The functional predictions support several microbiome-targeted skincare strategies.
 
-> Bouslimani A, et al. (2016). Molecular cartography of the human skin surface in 3D. *PNAS*. BioProject: PRJNA314604.
+Observed pathways were consistent with mechanisms involving:
+
+- Lipid metabolism
+- Barrier maintenance
+- Amino acid metabolism
+- Microbial community stability
+
+These findings align with ingredients commonly used in microbiome-focused formulations, including:
+
+- Prebiotics
+- Postbiotics
+- Fermented extracts
+- Thermal spring water
+- Barrier-supportive lipids
+- Probiotic lysates
+
+Published products from companies such as La Roche-Posay, Gallinée, Mother Dirt, and others report similar microbiome-supportive mechanisms, although evidence strength varies between marketing claims and controlled clinical studies.
+
+---
+
+# Results
+
+Key output files include:
+
+```
+results/
+
+ANCOMBC2_Axilla_vs_Arm.csv
+
+ANCOMBC2_Scalp_vs_Arm.csv
+
+ANCOMBC2_Scalp_vs_Axilla.csv
+
+Skin_Pathway_Table_AllSamples.csv
+
+significant_taxa_annotated.csv
+```
+
+Figures include:
+
+- Volcano plots
+- Pathway abundance boxplots
+- Diversity analyses
+
+---
+
+# Future Work
+
+- Machine learning classification of skin sites
+- Integration with shotgun metagenomic datasets
+- Validation using experimentally measured metagenomes
+- Host–microbiome interaction analysis
+- Cosmetic ingredient prioritization using functional predictions
+
+---
+
+# Citation
+
+If you use this repository, please cite:
+
+> Bouslimani A. et al. Molecular cartography of the human skin surface in 3D. *Proceedings of the National Academy of Sciences*. 2016.
+
+---
+
+# License
+
+This project is intended for research and educational purposes.
